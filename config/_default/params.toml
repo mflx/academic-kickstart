@@ -48,7 +48,7 @@ local_business_type = "ProfessionalService"
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Digital Product Management and Business Coaching ツ"
 
 ############################
 ## Site Features
@@ -97,7 +97,7 @@ address = {street = "", city = "BERLIN", region = "", postcode = "", country = "
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "52.4938872", longitude = "13.3983408"}
 
 # Directions for visitors to locate you.
 directions = ""
