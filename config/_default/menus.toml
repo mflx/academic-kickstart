@@ -9,18 +9,23 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
+  name = "Coaching"
+  url = "businesscoach/"
+  weight = 20 
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Posts"
+  url = "#posts"
+  weight = 25
+
+[[main]]
+  name = "Sessions"
+  url = "#talk"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Miniblog ➚"
+  url = "https://mflx.eu"
   weight = 40
 
 [[main]]
