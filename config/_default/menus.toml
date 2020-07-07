@@ -24,11 +24,6 @@
   weight = 30
 
 [[main]]
-  name = "Miniblog ➚"
-  url = "https://mflx.eu"
-  weight = 40
-
-[[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
