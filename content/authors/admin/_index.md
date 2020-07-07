@@ -62,11 +62,11 @@ Digital Product Manager and Product Lead with over 10 years experience in the Be
 Things I do:
 
 * Coaching and Consulting in agile Product Management, Product Strategy and Scaling Organizations
-* [Systemic Business Coaching](businesscoach)
+* [Business Coaching](businesscoach) with systemic and solution-focussed approach
 * Trainings in [Agile Product Management and Product Leadership](https://www.leanovate.de/training/produkt/)
 
 
-Trained Systemic Business Coach (University of Applied Science Wismar) and as part of my professional development certified by Scrum Alliance, Kanban University, Scrum.org, ICAgile and others. Background in Philosophy, Political Science and Economics.
+Trained Systemic Business Coach (University of Applied Science Wismar) and as part of my professional development certified by Scrum Alliance, Kanban University, Scrum.org, ICAgile and others. Background in Philosophy, Political Science and Economics. Currently attending a post-grad Masters in Consulting.
 Member of Scrum Alliance and International Coach Federation.
 
-Besides that I run [Faluma Music](https://www.faluma.com) - a music label for the sound of the Caribbean Carnival. Also find my [personal blog here](https://koffi.club). Proud [Agile Camp Berlin](https://agile-camp-berlin.com/) team member.
+Besides that I run [Faluma Music](https://www.faluma.com) - a music label for the sound of the Caribbean Carnival. Proud [Agile Camp Berlin](https://agile-camp-berlin.com/) team member.
