@@ -59,9 +59,10 @@ user_groups:
 
 Digital Product Manager and Product Lead with over 10 years experience in the Berlin start-up world.
 
-Things I do:
+Things I do atm:
 
 * Coaching and Consulting in agile Product Management, Product Strategy and Scaling Organizations
+* Organizational Development and agile Transformations / Improvements
 * [Business Coaching](businesscoach) with systemic and solution-focussed approach
 * Trainings in [Agile Product Management and Product Leadership](https://www.leanovate.de/training/produkt/)
 
