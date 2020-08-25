@@ -67,7 +67,7 @@ Things I do atm:
 * Trainings in [Agile Product Management and Product Leadership](https://www.leanovate.de/training/produkt/)
 
 
-Trained Systemic Business Coach (University of Applied Science Wismar) and as part of my professional development certified by Scrum Alliance, Kanban University, Scrum.org, ICAgile and others. Background in Philosophy, Political Science and Economics. Currently attending a post-grad Masters in Consulting.
-Member of Scrum Alliance and International Coach Federation.
+Trained Systemic Business Coach (University of Applied Science Wismar) and as part of my professional development certified by [Scrum Alliance](https://www.scrumalliance.org/community/profile/mstahl7), [Kanban University](https://edu.kanban.university/users/martin-stahl), [Scrum.org](https://www.scrum.org/user/251980), ICAgile and others. Background in Philosophy, Political Science and Economics. Currently attending a post-grad Masters in Consulting.
+Member of Scrum Alliance and [International Coach Federation](https://coachfederation.org/).
 
 Besides that I run [Faluma Music](https://www.faluma.com) - a music label for the sound of the Caribbean Carnival. Proud [Agile Camp Berlin](https://agile-camp-berlin.com/) team member.
