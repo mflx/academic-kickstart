@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 ## Public Trainings in Q4-2020
-_All trainings are an offering by Leanovate GmbH_
+_All trainings are an [offering by Leanovate GmbH](https://www.leanovate.de/trainings/)_
 - 25.09. What's Product? (Product Building Blocks 1) - remote
 - 02.10. Product Strategy (Product Building Blocks 2) - remote
 - 07.10. [Grundlagen der Agilität - remote](https://www.leanovate.de/training-buchen/?event_id=9051)
