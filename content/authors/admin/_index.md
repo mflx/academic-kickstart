@@ -64,6 +64,6 @@ Things I do atm:
 * Coaching in agile Product Management
 * Organizational Development & Agile / Culture Transformations
 * [Business Coaching](businesscoach) (systemic and solution-focussed approach)
-* Trainings in [Agile Product Management and Product Leadership](https://www.leanovate.de/training/produkt/)
+* Trainings in [Agile Product Management and Product Leadership](trainings/training-workshop)
 
 Interested in finding out [more about me](credentials/credentials)? 
