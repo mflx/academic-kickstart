@@ -57,17 +57,13 @@ user_groups:
 - Visitors
 ---
 
-Digital Product Manager and Product Lead with over 10 years experience in the Berlin start-up world.
+**Digital Product Manager / Product Lead** and **Organizational Coach** with over 15 years experience in the Berlin start-up world.
 
 Things I do atm:
 
-* Coaching and Consulting in agile Product Management
+* Coaching in agile Product Management
 * Organizational Development & Agile / Culture Transformations
-* [Business Coaching](businesscoach) with systemic and solution-focussed approach
+* [Business Coaching](businesscoach) (systemic and solution-focussed approach)
 * Trainings in [Agile Product Management and Product Leadership](https://www.leanovate.de/training/produkt/)
 
-
-Trained Systemic Business Coach (University of Applied Science Wismar) and as part of my professional development certified by [Scrum Alliance](https://www.scrumalliance.org/community/profile/mstahl7), [Kanban University](https://edu.kanban.university/users/martin-stahl), [Scrum.org](https://www.scrum.org/user/251980), ICAgile and others. Background in Philosophy, Political Science and Economics. Currently attending a post-grad Masters in Consulting.
-Member of Scrum Alliance and [International Coach Federation](https://coachfederation.org/).
-
-Besides that I run [Faluma Music](https://www.faluma.com) - a music label for the sound of the Caribbean Carnival. Proud [Agile Camp Berlin](https://agile-camp-berlin.com/) team member.
+Interested in finding out [more about me](credentials)? 
