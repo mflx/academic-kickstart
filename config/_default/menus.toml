@@ -14,6 +14,11 @@
   weight = 20 
 
 [[main]]
+   name = "Trainings"
+   url = "trainings/training-workshop/"
+   weight = 22
+
+[[main]]
   name = "Posts"
   url = "#posts"
   weight = 25
