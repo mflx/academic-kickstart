@@ -17,7 +17,7 @@ Trained **Systemic Business Coach** (University of Applied Science Wismar) and a
 
 {{< figure library="true" src="scrum-csp-cert.png" title="Certified Scrum Professional" >}}{{< figure library="true" src="badge-KMP-EDU.png" title="Kanban Management Professional" >}}
 
-Member of [Scrum Alliance](https://www.scrumalliance.org/), [International Coach Federation](https://coachfederation.org/) and [Intrinsify Network](https://intrinsify.de). I'm part of the organizing team of [Agile Camp Berlin](https://agile-camp-berlin.com/) and a mentor at [mentor.me](https://www.mentor.me). 
+Member of [Scrum Alliance](https://www.scrumalliance.org/), [International Coach Federation](https://coachfederation.org/) and [Intrinsify Network](https://intrinsify.de). I'm part of the organizing team of [Agile Camp Berlin](https://agile-camp-berlin.com/) and a mentor at [MentorMe](https://mentorme-ngo.org/). 
 
 Background in **Philosophy, Political Science and Economics** (University of Heidelberg). Trained **Software Product Manager** (University of Alberta). Currently attending a post-grad Master's programme in **Systemic Consulting** (Technische Universität Kaiserslautern).
 
