@@ -15,7 +15,7 @@ header:
 ---
 Trained **Systemic Business Coach** (University of Applied Science Wismar) and as part of my ongoing professional development certified by [Scrum Alliance](https://www.scrumalliance.org/community/profile/mstahl7), [Kanban University](https://edu.kanban.university/users/martin-stahl), [Scrum.org](https://www.scrum.org/user/251980), ICAgile and others. 
 
-![Certified Scrum Product Owner](scrum-cspo-cert) ![Certified Scrum Professional](scrum-csp-cert) ![Certified Agile Leadership I](scrumalliance-cal1-300x300) ![Kanban Management Professional](badge-KMP-EDU)
+![Certified Scrum Product Owner](scrum-cspo-cert.png) ![Certified Scrum Professional](scrum-csp-cert.png) ![Certified Agile Leadership I](scrumalliance-cal1-300x300.png) ![Kanban Management Professional](badge-KMP-EDU.png)
 
 Member of [Scrum Alliance](https://www.scrumalliance.org/) and [International Coach Federation](https://coachfederation.org/). I'm part of the organizing team of [Agile Camp Berlin](https://agile-camp-berlin.com/) and a mentor at [mentor.me](https://www.mentor.me).
 
