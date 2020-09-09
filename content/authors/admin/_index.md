@@ -66,4 +66,4 @@ Things I do atm:
 * [Business Coaching](businesscoach) (systemic and solution-focussed approach)
 * Trainings in [Agile Product Management and Product Leadership](https://www.leanovate.de/training/produkt/)
 
-Interested in finding out [more about me](credentials)? 
+Interested in finding out [more about me](credentials/credentials)? 
