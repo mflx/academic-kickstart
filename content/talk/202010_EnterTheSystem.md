@@ -64,3 +64,5 @@ math: false
 What are the strategies, tactics and tools that can help you to have a great start in a new organisation?
 
 We are looking forward to learn about your personal experiences and will share tools from our daily work with organizations and teams.
+
+{{< figure library="true" src="EnterTheSystemACBerlin20.jpg" title="Workshop - Enter the system" lightbox="true" >}}
