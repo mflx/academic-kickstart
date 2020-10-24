@@ -1,5 +1,5 @@
 ---
-title: Enter the system: Getting started in a new company or client
+title: Enter the system - Getting started in a new company or client
 event: Agile Camp Berlin 2020
 event_url: https://2020.agile-camp-berlin.com/proposedsessions/enter-the-system-getting-started-in-a-new-company-or-client/
 location: virtual
@@ -63,4 +63,4 @@ math: false
 
 What are the strategies, tactics and tools that can help you to have a great start in a new organisation?
 
-We are looking forward to learn about your personal experiences and will share our tools.
+We are looking forward to learn about your personal experiences and will share tools from our daily work with organizations and teams.
