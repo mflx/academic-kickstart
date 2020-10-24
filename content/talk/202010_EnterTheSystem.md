@@ -8,33 +8,33 @@ abstract: "Tools, strategies, and tactics to analyze the system to be effective 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-10-22T13:00:00Z"
+date: "2020-10-23T16:00:00Z"
 #date_end: "2020-10-24T18:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-10-20T00:00:00Z"
 
-authors: [Martin]
-tags: [coaching, product, agile, orgdev]
+authors: ["Martin"]
+tags: ["coaching", "product", "agile", "orgdev"]
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 
+  caption: ""
   focal_point: Right
 
 links:
 - icon: linkedin
   icon_pack: fab
   name: Nils
-  url: https://www.linkedin.com/in/nilsvh/
+  url: 'https://www.linkedin.com/in/nilsvh/'
 
 - icon: twitter
   icon_pack: fab
   name: Martin
-  url: https://twitter.com/mflx  
+  url: 'https://twitter.com/mflx'  
 
 
 url_code: ""
