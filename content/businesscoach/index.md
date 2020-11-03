@@ -13,15 +13,15 @@ header:
   caption: ""
   image: ""
 ---
-Du möchtest etwas bewegen oder im beruflichen Umfeld / Karriere noch eine Veränderung treiben?
+Du möchtest **etwas bewegen** oder im beruflichen Umfeld / Karriere noch **eine Veränderung** treiben?
 
-Wir bieten für berufliche und karrierebezogene Themen ein Business Coaching mit systemischen und lösungsfokussierten Ansatz an. Im Coaching erarbeiten wir gemeinsam eine Zielsetzung und schauen uns an, wie du mit deinen Möglichkeiten und Stärken zu einer befriedigenden und nachhaltigen Lösung kommst.
+Wir bieten für **berufliche und karrierebezogene Themen** ein Business Coaching mit systemischen und lösungsfokussierten Ansatz an. Im Coaching erarbeiten wir gemeinsam eine Zielsetzung und schauen uns an, wie du mit **deinen Möglichkeiten und Stärken** zu einer befriedigenden und **nachhaltigen Lösung** kommst.
 
 {{% alert note %}}
 Currently Business Coaching sessions are only available in German.
 {{% /alert %}}
 
-Wir sind Mitglied in der International Coach Federation und arbeiten unter deren [Code of Ethics](https://coachfederation.org/code-of-ethics-overview).
+Als Mitglied der **International Coach Federation** arbeite ich unter deren [Code of Ethics](https://coachfederation.org/code-of-ethics-overview).
 
 ![ICF Logo 25yrs](https://www.martinstahl.info/img/ICF_25Years_Color.png)
 
@@ -40,7 +40,7 @@ Ein Businesscoaching begleitet bei allen berufs- oder karrierebezogenen Themen, 
 * Umgang mit Change, 
 * Herausforderungen im Team, uvm.
 
-In meiner Rolle als Coach bin ich dein Prozessbegleiter und Fragensteller, eine dezidierte fachliche Beratung findet nicht (oder nur in vorheriger Absprache) statt.
+In meiner Rolle als Coach bin ich **dein Prozessbegleiter und Fragensteller**, eine dezidierte fachliche Beratung findet nicht oder nur in vorheriger Absprache statt.
 
 --
 
@@ -58,7 +58,7 @@ Die Coachingsessions sind durch fünf Phasen strukturiert:
 
 ## Wie lange geht das Coaching?
 
-Abhängig vom Thema muss mit zwischen 3 und 15h gerechnet werden, typischerweise aufgeteilt in mehrere Sessions. Der Klient kann den Prozess jederzeit beenden, wenn sich das Thema erledigt hat oder bereits eine Lösung gefunden wurde.
+Abhängig vom Thema muss mit zwischen 1 und 6h gerechnet werden, typischerweise aufgeteilt in mehrere Sessions. Der Klient kann den Prozess jederzeit beenden, wenn sich das Thema erledigt hat oder bereits eine Lösung gefunden wurde.
 
 --
 
@@ -70,4 +70,4 @@ SBC baut auf modernen Konzepten systemtheoretischer Wissenschaft auf. Menschen, 
 
 **Coaching** in diesem Zusammenhang bedeutet eine **lösungsorientierte** Prozessbegleitung, die den Klienten bei der Lösung seiner Fragestellung unterstützt. Die Klientin / der Klient erarbeitet sich also ihre / seine Lösung selbst und ist auch für die Umsetzung selbst verantwortlich. Der Coach erweitert die Wahrnehmung des Problems und leitet Perspektivwechsel ein. Ziel ist die Selbststeuerung des Klientens / der Klientin durch den **ressourcen-orientierten** Lösungsansatz.
 
-Der **systemische Coachingprozess** ist wissenschaftlich fundiert nach der [Kepner- & Tregoe-Methode](https://de.wikipedia.org/wiki/Kepner-Tregoe) und der Selbstlernprozess nach dem [Rubikon-Modell nach Heckhausen](https://de.wikipedia.org/wiki/Rubikonmodell_der_Handlungsphasen). 
+Der **systemische Coachingprozess** ist wissenschaftlich fundiert nach der [Kepner- & Tregoe-Methode](https://de.wikipedia.org/wiki/Kepner-Tregoe) und der Selbstlernprozess nach dem [Rubikon-Modell nach Heckhausen](https://de.wikipedia.org/wiki/Rubikonmodell_der_Handlungsphasen). Als theoretisches Fundament dient die Systemtheorie, insbesondere nach Luhmann. 
