@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Head of Coaching & Consulting
+role: Product & Org Coach
 
 # Organizations/Affiliations
 organizations:
@@ -59,11 +59,11 @@ user_groups:
 
 **Digital Product Manager / Product Lead** and **Organizational Coach** with over 15 years experience in the Berlin start-up world.
 
-Things I do atm:
+Things I do:
 
-* Coaching in agile Product Management
-* Organizational Development & Agile / Culture Transformations
-* [Business Coaching](businesscoach) (systemic and solution-focussed approach)
-* Trainings in [Agile Product Management and Product Leadership](trainings/training-workshop)
+* Coaching Product Managers / Product Owners
+* Organizational Development & Agile Transitions
+* [Business Coaching](businesscoach) (ICF-listed)
+* Trainings in [Agile Product Management and Leadership](trainings/training-workshop)
 
 Interested in finding out [more about me](credentials/credentials)? 
