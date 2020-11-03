@@ -13,7 +13,7 @@ header:
   caption: ""
   image: ""
 ---
-Du möchtest **etwas bewegen** oder im beruflichen Umfeld / Karriere noch **eine Veränderung** treiben?
+Du möchtest **etwas bewegen** oder im beruflichen oder persönlichen Umfeld **eine Veränderung** treiben und wachsen?
 
 Wir bieten für **berufliche und karrierebezogene Themen** ein Business Coaching mit systemischen und lösungsfokussierten Ansatz an. Im Coaching erarbeiten wir gemeinsam eine Zielsetzung und schauen uns an, wie du mit **deinen Möglichkeiten und Stärken** zu einer befriedigenden und **nachhaltigen Lösung** kommst.
 
@@ -21,7 +21,7 @@ Wir bieten für **berufliche und karrierebezogene Themen** ein Business Coaching
 Currently Business Coaching sessions are only available in German.
 {{% /alert %}}
 
-Als Mitglied der **International Coach Federation** arbeite ich unter deren [Code of Ethics](https://coachfederation.org/code-of-ethics-overview).
+Als Mitglied des weltweit größten Coachingverbandes, der **International Coach Federation** arbeite ich unter deren [Code of Ethics](https://coachfederation.org/code-of-ethics-overview) und bin als [Associate Certified Coach](https://www.youracclaim.com/badges/b6f0e15f-0e0f-43b8-8ea4-6151c7dc0207/public_url) qualifiziert.
 
 ![ICF Logo 25yrs](https://www.martinstahl.info/img/ICF_25Years_Color.png)
 
