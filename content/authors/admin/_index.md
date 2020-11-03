@@ -63,7 +63,7 @@ Things I do:
 
 * Coaching Product Managers / Product Owners
 * Organizational Development & Agile Transitions
-* [Business Coaching](businesscoach) (ICF-listed)
+* [Business Coaching](businesscoach) ([ICF-listed](https://www.youracclaim.com/badges/b6f0e15f-0e0f-43b8-8ea4-6151c7dc0207/public_url)
 * Trainings in [Agile Product Management and Leadership](trainings/training-workshop)
 
 Interested in finding out [more about me](credentials/credentials)? 
