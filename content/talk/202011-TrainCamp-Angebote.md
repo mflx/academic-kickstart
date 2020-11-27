@@ -53,4 +53,10 @@ projects:
 math: false
 ---
 
+Wie kann man Angebote für Training, Coaching oder Beratung iterativ und hypothesenbasiert entwickeln? Einen Überblick über Vorgehen, Mindset und hilfreiche Modelle?
+- Welche Aspekte von agiler Produktentwicklung sind relevant für den Aufbau eines Beratungs-/Coachingangebots?
+- Hypothesenbasiertes Arbeiten und Informatiionsanreicherung des Systems.
+- Iterativer Umgang mit Modellen wie SWOT, Lean Canvas, Produkttreppe.
+
+Miroboard: https://miro.com/app/board/o9J_ld-QIrE=/
 
