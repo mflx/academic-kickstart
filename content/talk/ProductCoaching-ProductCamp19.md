@@ -58,6 +58,17 @@ math: false
 
 Talk on the concept of Product Coaching. The concept is still MVP and I appreciate all feedback. Slides are available [here](https://docs.google.com/presentation/d/1a43WGB1Pw1mHlBL0ZaYBLkz2llx3dBmlMFPiZUa0JTE/edit?usp=sharing).
 
+What is Product Coaching?
+While as external Product Management consultants we support Product Owners and PMs with our expertise and knowledge. This works quite well in most cases, but is rarely the best solution. 
+Why? 
+Product organizations are complex systems, so by definition there can be no standardized solutions or "best practices". Every company and every challenge is different, although familiar patterns can be observed withing differen organizations. 
+Product Coaching wants to close this gap. It starts with developing an individual objective and goal before jumping into solutions. Tools from systemic and solution-focused coaching help to broaden perspectives and provide the coachee or organization with new options.
+The presented concept is a first attempt at schematization, which is hereby put up for discussion.
+
+Translated with www.DeepL.com/Translator (free version)
+
+
+
 Feedback:
 
 * Mayra on [twitter](https://twitter.com/infodesignerd/status/1180414921235931136)
