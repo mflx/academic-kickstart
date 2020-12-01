@@ -62,7 +62,7 @@ Abstract: What is Product Coaching?
 While as external Product Management consultants we support Product Owners and PMs with our expertise and knowledge. This works quite well in most cases, but is rarely the best solution.
 
 Why? 
-Product organizations are complex systems, so by definition there can be no standardized solutions or "best practices". Every company and every challenge is different, although familiar patterns can be observed withing differen organizations. 
+Product organizations are complex systems, so by definition there can be no standardized solutions or "best practices". Every company and every challenge is different, although familiar patterns can be observed within different organizations. 
 Product Coaching wants to close this gap. It starts with developing an individual objective and goal before jumping into solutions. Tools from systemic and solution-focused coaching help to broaden perspectives and provide the coachee or organization with new options.
 The presented concept is a first attempt at schematization, which is hereby put up for discussion.
 
