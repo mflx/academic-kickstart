@@ -32,7 +32,7 @@ links:
 url_code: ""
 url_pdf: "https://www.martinstahl.info/media/TrainCamp-AgileAngebotspalette.pdf"
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=BC1EX_rk4nw&"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -59,4 +59,5 @@ Wie kann man Angebote für Training, Coaching oder Beratung iterativ und hypothe
 - Iterativer Umgang mit Modellen wie SWOT, Lean Canvas, Produkttreppe.
 
 Miroboard: https://miro.com/app/board/o9J_ld-QIrE=/
+Video: https://www.youtube.com/watch?v=BC1EX_rk4nw& (Tipp: echter Content startet etwa nach 5min)
 
