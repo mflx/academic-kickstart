@@ -47,6 +47,7 @@ Also the new **self-managed** has not only caused joy: self-organized teams or s
 Like the previous versions of the Scrum Guide, the current changes (say increments) are only an attempt to make Scrum as a framework easier to understand. In the sense of "inspect and adapt" this edition is also only a temporary one and we can be curious how the changes will be accepted and interpreted.
 
 The current version of the Scrum Guide can be found here: [scrumguides.org](https://scrumguides.org/).
+German version of this article on [leanovate.de Blog](https://www.leanovate.de/der-neue-scrum-guide-2020/).
 
 Photo credit: [Quino Al](https://unsplash.com/@quinoal) on [Unsplash](https://unsplash.com)
 
