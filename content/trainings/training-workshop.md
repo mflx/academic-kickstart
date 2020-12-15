@@ -15,6 +15,7 @@ header:
 ---
 ## Public Trainings in Q4-2020
 _All trainings are an [offering by Leanovate GmbH](https://www.leanovate.de/trainings/)_
+- 15.12. Grundlagen der Agilität - remote / internal
 - 02.12. [Grundlagen der Agilität - remote](https://www.leanovate.de/training-buchen/?event_id=9052)
 - 27.11. What's Product? (Product Building Blocks 1) - remote
 - 23.11. - 23.11. [Agile Product Management](https://www.leanovate.de/training-buchen/?event_id=9054)
