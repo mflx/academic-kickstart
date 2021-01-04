@@ -25,7 +25,7 @@ I work and lead based on the **values** focus, collaboration, transparency, resp
 
 ## Domains ##
 
-Experience across multiple domains in international companies. Expert knowledge in eCommerce, platforms and classified, solid knowledge in cybersecurity and eHealth; multiple customer groups: B2C, B2B, C2B.
+Experience and clients across multiple domains in international companies. Expert knowledge in eCommerce, platforms and classified, solid knowledge in cybersecurity and eHealth; multiple customer groups: B2C, B2B, C2B.
 
 
 ## Education ## 
@@ -35,6 +35,5 @@ Trained **Systemic Business Coach** (University of Applied Science Wismar, Inter
 Member of [Scrum Alliance](https://www.scrumalliance.org/), [International Coach Federation](https://coachfederation.org/) and [Intrinsify Network](https://intrinsify.de). I'm part of the organizing team of [Agile Camp Berlin](https://agile-camp-berlin.com/) and a mentor at [MentorMe](https://mentorme-ngo.org/). 
 
 Background in **Philosophy, Political Science and Economics** (University of Heidelberg). Trained **Software Product Manager** (University of Alberta). Currently attending a post-grad Master's programme in **Systemic Consulting** (Technische Universität Kaiserslautern).
-
 
 {{< figure library="true" src="badges-mix.jpg" title="Certificates" >}}
