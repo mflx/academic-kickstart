@@ -13,6 +13,7 @@ header:
   caption: ""
   image: ""
 ---
+
 ## About me ##
 
 Coaching and consulting Organizations and Teams in dynamic phases like scaling, change or innovation to a better, sustainable and healthy delivery. Deep understanding of digital products and business models. Holistic and hypothesis-based Product Management by looking at the right metrics. Supporting teams, individuals and business units on their way to an agile mindset and work practices like Scrum and Kanban with a systemic and solution-focussed approach.
@@ -25,7 +26,7 @@ I work and lead based on the **values** focus, collaboration, transparency, resp
 
 ## Domains ##
 
-Experience and clients across multiple domains in international companies. Expert knowledge in eCommerce, platforms and classified, solid knowledge in cybersecurity and eHealth; multiple customer groups: B2C, B2B, C2B.
+Experience and clients across multiple domains in international companies. Expert knowledge in eCommerce, platforms and classified, solid knowledge in cybersecurity and eHealth. Multiple customer groups: B2C, B2B, C2B.
 
 
 ## Education ## 
