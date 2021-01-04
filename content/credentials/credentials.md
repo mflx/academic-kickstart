@@ -1,6 +1,6 @@
 ---
 title: About me
-summary: About me: Accomplishments, education, domain knowledge.
+summary: Accomplishments, education, domain knowledge.
 date: "2020-09-09T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
