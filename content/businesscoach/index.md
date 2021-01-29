@@ -23,7 +23,7 @@ Currently Business Coaching sessions are only available in German.
 
 Als Mitglied des weltweit größten Coachingverbandes, der **International Coach Federation** arbeite ich unter deren [Code of Ethics](https://coachfederation.org/code-of-ethics-overview) und bin als [Associate Certified Coach](https://www.youracclaim.com/badges/b6f0e15f-0e0f-43b8-8ea4-6151c7dc0207/public_url) qualifiziert.
 
-![ICF Logo 25yrs](https://www.martinstahl.info/img/ICF_25Years_Color.png)
+![ICF Logo](https://www.martinstahl.info/img/ICF_PC_Horizontal_Blue.png)
 
 
 ## Was sind typische Themen und Fragestellungen für dein Business Coaching?
@@ -50,21 +50,21 @@ Die Coachingsessions sind durch fünf Phasen strukturiert:
 
 1. Kennenlernen, Kontrakt, Vorstellung des Themas
 2. Ausarbeitung des Themas mit Zielklärung
-3. Identifikation der Ressourcen
-4. Verhaltens- und Lösungsmöglichkeiten herausarbeiten
-5.  Abschluss / Controlling / Review
+3. Identifikation der eigenen Ressourcen und Möglichkeiten
+4. Verhaltens- und Lösungsoptionen herausarbeiten und priorisieren
+5. Abschluss / Controlling / Review
 
 --
 
 ## Wie lange geht das Coaching?
 
-Abhängig vom Thema muss mit zwischen 1 und 6h gerechnet werden, typischerweise aufgeteilt in mehrere Sessions. Der Klient kann den Prozess jederzeit beenden, wenn sich das Thema erledigt hat oder bereits eine Lösung gefunden wurde.
+Abhängig vom Thema muss mit zwischen einer und 5-10h gerechnet werden, typischerweise aufgeteilt in mehrere Sessions. Der Klient kann den Prozess jederzeit beenden, wenn sich das Thema erledigt hat oder bereits eine Lösung gefunden wurde. Die meisten Fragestellungen kommen mit 1-2 Sessions aus.
 
 --
 
 ## Grundlage: Was ist Systemisches Business Coaching?
 
-SBC baut auf modernen Konzepten systemtheoretischer Wissenschaft auf. Menschen, Herausforderungen oder einzelne Phänomene werden nicht isoliert und mono-kausal betrachtet (Ursache : Wirkung), sondern eingebettet in und als Teil eines sozialen Systems, das permanent in Bewegung ist und sich beeinflußt. Durch *systemisches* Coaching wird dieses System transparent und die Wechselwirkungen sichtbar.
+SBC baut auf modernen Konzepten systemtheoretischer Wissenschaft auf. Menschen, Herausforderungen oder einzelne Phänomene werden nicht isoliert und mono-kausal betrachtet (Ursache - Wirkung), sondern eingebettet in und als Teil eines sozialen Systems, das permanent in Bewegung ist und sich beeinflußt. Durch *systemisches* Coaching wird dieses System transparent und die Wechselwirkungen sichtbar. Ziel ist es, Gedankenzirkel aufzulösen, den Handlungsspielraum durch Finden neuer Optionen deutlich zu erhöhen und zufriedenstellend zu lösen.
 
 ![Moderationskarten](https://66.media.tumblr.com/c15b8ad270bc0dee356a8be6f6b1c43c/tumblr_inline_ptxeb4Wzlj1qzxh86_500.jpg)
 
