@@ -35,10 +35,6 @@ But what if the role does not live up to expectations and cannot create the impe
 
 We hear again and again from managers that they would like to have a sparring partner for difficult change projects in the company or that they would be happy to receive hints and observations where there is potential for improvement in the work process.
 
-The Scrum Master role is supposed to create a "safe environment" in the team, so that failure and mistakes can be seen as a normal and important part of the work. But does the same safety also apply to the Agile Coaches if they want to work outside the team to the organisational level?
-
-The Scrum Master role is to create a "safe environment" in the team, so that failure and mistakes are seen as a normal and important part of the work.
-
 Another point that can be crucial for the effectiveness of Agile Coaches is the assignment of the role within the organisation. If the Agile Coaches are disciplinarily attached to managers in the team environment, e.g. team leads, then it can be assumed that the sphere of influence remains limited to this environment.
 
 If the Agile Coaches and Scrum Masters are also to improve cooperation between several teams, with other departments or even support company-wide change projects, they must be disciplinarily attached accordingly: namely directly under C-level or senior management positions. This can also be professionally independent, for example as a staff position under CEO, CDO or COO. We have also seen the model where Agile Coaches have been assigned to HR/Organisational Development. In our experience, this leads to them really working across teams and looking differently at the organisation as a whole.
@@ -59,7 +55,7 @@ Agile coaches, who can be booked as freelancers or through service providers suc
 
 Whether with internal or external Agile Coaches and Scrum Masters, this role can be extremely effective and value-adding, as long as the above-mentioned points, among others, are observed.
 
-If you have any further questions on this topic, please do not hesitate to contact us! We look forward to hearing from you.
 
 --
+
 Credit: Photo by [Ross Findon on unsplash](https://unsplash.com/@rossf)
