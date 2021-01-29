@@ -9,8 +9,8 @@ profile: true  # Show author profile?
 comments: false  # Show comments?
 
 header:
-  caption: "Agile Coaches"
-  image: "glenn-carstens-peters-checklist.jpg"
+  caption: "Agile Coaches help with change."
+  image: "ross-findon-change-unsplash.jpg"
 
 ---
 
@@ -60,3 +60,6 @@ Agile coaches, who can be booked as freelancers or through service providers suc
 Whether with internal or external Agile Coaches and Scrum Masters, this role can be extremely effective and value-adding, as long as the above-mentioned points, among others, are observed.
 
 If you have any further questions on this topic, please do not hesitate to contact us! We look forward to hearing from you.
+
+--
+Credit: Photo by [https://unsplash.com/@rossf|Ross Findon on unsplash]
