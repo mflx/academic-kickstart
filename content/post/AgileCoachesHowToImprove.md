@@ -62,4 +62,4 @@ Whether with internal or external Agile Coaches and Scrum Masters, this role can
 If you have any further questions on this topic, please do not hesitate to contact us! We look forward to hearing from you.
 
 --
-Credit: Photo by [Ross Findon on unsplash] (https://unsplash.com/@rossf)
+Credit: Photo by [Ross Findon on unsplash](https://unsplash.com/@rossf)
