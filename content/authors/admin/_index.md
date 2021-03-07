@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Product & Org Coach
+role: Head of Product
 
 # Organizations/Affiliations
 organizations:
-- name: Leanovate GmbH
-  url: "https://www.leanovate.de"
+- name: Curalie GmbH
+  url: "https://www.curalie.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Digital Product Manager and Product Lead in Startups for over a decade. Now Coaching, Training and Consulting for Digital Product Management.
