@@ -1,5 +1,5 @@
 ---
-title: Lead time matters - how we did scrum with kanban in an explore team
+title: Lead time matters - how we did Scrum with Kanban in an Explore team
 event: Kanban Community Days 2020
 event_url: https://kcd20.eu/timetable/event/en-martin-stahl-lead-time-matters-how-we-did-scrum-with-kanban-in-an-explore-team/
 location: virtual
