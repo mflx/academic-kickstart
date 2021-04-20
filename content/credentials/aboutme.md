@@ -23,21 +23,24 @@ I work and lead based on the **values** focus, collaboration, transparency, resp
 
 **Community** work like barcamps, learning circles, community of practices and supervision are an integral part of my professional life.
 
-
+---
 
 ## Domains ##
 
-Experience and clients across multiple domains in international companies. Expert knowledge in eCommerce, platforms and classified, solid knowledge in cybersecurity and eHealth. Multiple customer groups: B2C, B2B, C2B.
+Experience and clients across multiple domains in international companies. Expert knowledge in eCommerce, platforms and classified, solid knowledge in cybersecurity and eHealth. Multiple customer groups: B2C, B2B, C2B. Strong in explore and scaling business phase.
 
-
+---
 
 ## Companies ##
 **Leading product** at [Lieferando](https://www.lieferando.de/) (2011-2013), [Flaconi](https://www.flaconi.de/) (2014-2015) and [Curalie](https://www.curalie.com) (since 2021). 
+
 **Product Management / Product Ownership / Product team lead roles** at TopTarif, aladoo.de, nu3.de, mobile.de and others.
+
 **Consulting and training** at [Leanovate](https://www.leanovate.de) (2017-2020) in Product Management, Agile/Scrum/Kanban and team development with clients at eBay Classifieds Group, DCSO, myToys/Otto Group and many others. 
-**Head of Coaching & Consulting** team at Leanovate (2019-2020).
 
+**Head of Coaching & Consulting** team at [Leanovate](https://www.leanovate.de/services/coaching-consulting/) (2019-2020).
 
+---
 
 ## Education ## 
 
