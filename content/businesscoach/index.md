@@ -15,7 +15,7 @@ header:
 ---
 Du möchtest **etwas bewegen** oder im beruflichen oder persönlichen Umfeld **eine Veränderung** treiben und wachsen?
 
-Wir bieten für **berufliche und karrierebezogene Themen** ein Business Coaching mit systemischen und lösungsfokussierten Ansatz an. Im Coaching erarbeiten wir gemeinsam eine Zielsetzung und schauen uns an, wie du mit **deinen Möglichkeiten und Stärken** zu einer befriedigenden und **nachhaltigen Lösung** kommst.
+Wir bieten für **berufliche, weiterentwicklungs- und karrierebezogene Themen** ein Business Coaching mit systemischen und lösungsfokussierten Ansatz an. Im Coaching erarbeiten wir gemeinsam eine Zielsetzung und schauen uns an, wie du mit **deinen Möglichkeiten und Stärken** zu einer befriedigenden und **nachhaltigen Lösung** kommst.
 
 {{% alert note %}}
 Currently Business Coaching sessions are only available in German.
@@ -34,8 +34,7 @@ Ein Businesscoaching begleitet bei allen berufs- oder karrierebezogenen Themen, 
 * Stärken und Schwächen, 
 * (Selbst-) Reflexion insb. beruflicher Herausforderungen, 
 * Führung, 
-* Work-Life-Balance, 
-* Laufbahnentscheidungen, 
+* Laufbahnentscheidungen und Neuorientierung, 
 * Visionsarbeit, 
 * Umgang mit Change, 
 * Herausforderungen im Team, uvm.
