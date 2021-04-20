@@ -66,4 +66,4 @@ Things I do:
 * [Business Coaching](businesscoach) - [accredited by ICF](https://www.youracclaim.com/badges/b6f0e15f-0e0f-43b8-8ea4-6151c7dc0207/public_url)
 * Trainings in [Agile Product Management and Leadership](trainings/training-workshop)
 
-Interested in finding out [more about me](credentials/credentials)? 
+Interested in finding out [more about me](credentials/aboutme)? 
