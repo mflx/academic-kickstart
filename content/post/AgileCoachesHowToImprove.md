@@ -1,6 +1,6 @@
 ---
-title: Make Change significant with Agile Coaches  
-summary: How Agile Coaches will improve your organzation.
+title: Make Change powerfull with Agile Coaches  
+summary: How the right Agile Coaches will improve your organzation.
 date: "2021-01-29T00:00:00Z"
 
 reading_time: true  # Show estimated reading time?
@@ -14,7 +14,7 @@ header:
 
 ---
 
-Scrum Masters and Agile Coaches - you often find them in agile teams around software development or other knowledge work. They usually provide direct support in the team and are often not very visible outside the team. But agile coaches and scrum masters can do much more!
+**Scrum Masters** and **Agile Coaches** - you often find them in agile teams around software development or other knowledge work. They usually provide direct support in the team and are often not very visible outside the team. But agile coaches and scrum masters can do much more!
 
 
 ## The role - constantly changing?
@@ -42,12 +42,12 @@ One of the difficulties that Scrum Masters and Agile Coaches have to deal with i
 
 Another point that can be crucial for the effectiveness of Agile Coaches is the assignment of the role within the organisation. If the Agile Coaches are disciplinarily attached to managers in the team environment, e.g. team leads, then it can be assumed that the sphere of influence remains limited to this environment.
 
-If the Agile Coaches and Scrum Masters are also to improve cooperation between several teams, with other departments or even support company-wide change projects, they must be disciplinarily attached accordingly: namely directly under C-level or senior management positions. This can also be professionally independent, for example as a staff position under CEO, CDO or COO. We have also seen the model where Agile Coaches have been assigned to HR/Organisational Development. In our experience, this leads to them really working across teams and looking differently at the organisation as a whole.
+If the Agile Coaches and Scrum Masters are also to improve cooperation between several teams, with other departments or even support company-wide change projects, they must be disciplinarily attached accordingly: namely directly under **C-level or senior management positions**. This can also be professionally independent, for example as a staff position under CEO, CDO or COO. We have also seen the model where Agile Coaches have been assigned to HR/Organisational Development. In our experience, this leads to them really working across teams and looking differently at the organisation as a whole.
 
 
 ## Level of experience
 
-Hence Agile Coaches need solid to advanced competences in agile methods, coaching, mentoring, communication, facilitation, conflict management, change management, training and much more. This requires trained and experienced people to be able to do full justice to the tasks.
+Hence Agile Coaches need solid to advanced competences in agile methods, coaching, mentoring, communication, facilitation, conflict management, change management, organisational development, training and much more. This requires trained and experienced people to be able to do full justice to the tasks.
 
 What is often overlooked in this context is that roles with difficult and complex missions and expectations must be adequately managed. The more complex and political the mandate, the more senior the role needs to be. We are not talking about a team-assistant role that can be performed by entry-level staff. We are talking about solid to advanced competences in agile methods, coaching, mentoring, communication, moderation, conflict management, change management, training and much more. This requires trained and experienced people to be able to do full justice to the tasks.
 
