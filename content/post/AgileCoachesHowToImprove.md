@@ -14,10 +14,10 @@ header:
 
 ---
 
-**Scrum Masters** and **Agile Coaches** - you often find them in agile teams around software development or other knowledge work. They usually provide direct support in the team and are often not very visible outside the team. But agile coaches and scrum masters can do much more!
+**Scrum Masters** and **Agile Coaches** - you often find them in agile teams around software development or other knowledge work. They usually provide direct support in the team and are often not very visible outside the team. But agile coaches and scrum masters can do much more! 
 
 
-## The role - constantly changing?
+### The role - constantly changing?
 
 The role of Scrum Masters and Agile Coaches is wide-ranging and, in our experience, is often understood very differently in different companies. In some companies, the role is even controversial, especially in the environment of tech teams, because it supposedly creates no visible output (in the sense of lines of code or processed tickets). But Scrum Masters and Agile Coaches can be extremely effective and quickly pay for themselves: expensive teams of high-calibre tech specialists and software engineers are helped to work productively and collaborate better. This almost miraculously enables the much-vaunted "high-performing teams".
 
