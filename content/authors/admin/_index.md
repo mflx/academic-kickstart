@@ -36,7 +36,7 @@ social:
   link: https://www.xing.com/profile/Martin_Stahl4
 - icon: mastodon
   icon_pack: fab
-  link: https://mstdn.io/@mflx
+  link: https://team1.rocks/@martin
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/mflx
