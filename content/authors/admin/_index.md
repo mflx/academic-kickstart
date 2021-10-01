@@ -18,7 +18,7 @@ organizations:
   url: "https://www.curalie.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Digital Product Manager and Product Lead in Startups for over a decade. Now Coaching, Training and Consulting for Digital Product Management.
+bio: Digital Product Manager in Startups for over a decade. Now Coaching, Training and Consulting for Digital Product Management.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -57,12 +57,12 @@ user_groups:
 - Visitors
 ---
 
-**Digital Product Manager / Product Lead** and **Organizational Coach** with over 15 years experience in the Berlin start-up world.
+**Digital Product Manager** and **Organizational Coach** with over 15 years experience in the Berlin start-up world.
 
 Things I do:
 
-* Coaching Product Managers / Product Owners
-* Organizational Development & Agile Transitions
+* Coaching Product Managers and Product Owners
+* Consulting in Organizational Development & Agile Transitions
 * [Business Coaching](businesscoach) - [accredited by ICF](https://www.youracclaim.com/badges/b6f0e15f-0e0f-43b8-8ea4-6151c7dc0207/public_url)
 * Trainings in [Agile Product Management and Leadership](trainings/training-workshop)
 
