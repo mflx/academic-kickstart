@@ -1,5 +1,5 @@
 ---
-title: Books and ressources: Agile and Leadership  
+title: Books and ressources - Agile and Leadership  
 summary: Recommended resources on Agile and Leadership.
 date: "2021-10-08T00:00:00Z"
 
