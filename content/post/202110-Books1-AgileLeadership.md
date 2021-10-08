@@ -10,7 +10,7 @@ comments: false  # Show comments?
 
 header:
   caption: "Reading reading reading."
-  image: "hamza-nouasria-KXrvPthkmYQ-quer.jpg"
+  image: "nouasria-KXrvPthkmYQ.jpg"
 
 ---
 
@@ -24,7 +24,7 @@ We start with #1: books on Agile (in general) and Leadership.
 - David J. Snowden, Mary E. Boone: "A Leader's Framework for Decision Makeing", in: Harvard Business Review Nov. 2007 - [link to article on HBR](https://hbr.org/2007/11/a-leaders-framework-for-decision-making)
 - Hirotaka Takeuchi, Ikujiro Nonaka: The New New Product Development Game, in: Harvard Business Review Jan. 1986 - [link to article on HBR](https://hbr.org/1986/01/the-new-new-product-development-game)
 - Marty Cagan: Inspired: How To Create Products Customers Love. 2008
-- Focus: Maker's Schedule, Manager's Schedule [link to article](http:// www.paulgraham.com/makersschedule.html)
+- Focus: Maker's Schedule, Manager's Schedule [link to article](http://www.paulgraham.com/makersschedule.html)
 - Chris Gagne: Mary Poppendieck’s "The Tyranny of ‘The Plan" [link to article](https://chrisgagne.com/1255/mary-poppendiecks-the-tyranny-of-the-plan/)
 - Frederic Laloux: Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage in Human Consciousness
 
@@ -42,11 +42,13 @@ We start with #1: books on Agile (in general) and Leadership.
 - Alexander Osterwalder, Yves Pigneur: Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers.
 - Stephen Bungay: The Art of Action: How Leaders Close the Gaps between Plans, Actions, and Results
 - Emotional Agility
-- Selinger: Dschungelbuch der Führung (DE)
-- Svenja Hofert: Agiler führen (DE)
-- Niels Pfläging: 12 neuen Gesetze der Führung (DE)
-- Gerhard Wohland: Denkwerkzeuge der Höchstleister (DE)
-- Arnold - Wie man führt ohne zu dominieren (DE)
+
+### Books in German
+- Selinger, Ruth: Dschungelbuch der Führung (DE)
+- Hofert, Svenja: Agiler führen (DE)
+- Pfläging, Niels: 12 neuen Gesetze der Führung (DE)
+- Wohland, Gerhard: Denkwerkzeuge der Höchstleister (DE)
+- Arnold, Rolf: Wie man führt ohne zu dominieren (DE)
 
 --
 
