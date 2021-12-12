@@ -1,7 +1,7 @@
 ---
 title: The Responsibility Process - Book Review
 summary: An review of the book The Responsibility Process by Chris Avery. 
-date: "2021-12-012T00:00:00Z"
+date: "2021-12-11T00:00:00Z"
 
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
