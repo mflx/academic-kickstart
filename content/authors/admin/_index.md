@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Head of Product
+role: Chief Product Officer (CPO)
 
 # Organizations/Affiliations
 organizations:
@@ -64,5 +64,6 @@ Things I do:
 * Coaching Product Managers and Product Owners
 * Consulting in Organizational Development & Agile Transitions
 * [Business Coaching](businesscoach) - [accredited by ICF](https://www.youracclaim.com/badges/b6f0e15f-0e0f-43b8-8ea4-6151c7dc0207/public_url)
+* Or busy building an actual product
 
 Interested in finding out [more about me](credentials/aboutme)? 
