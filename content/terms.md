@@ -18,10 +18,10 @@ Verantwortlich: Martin Stahl
 
 
 ## Adresse
-Curalie GmbH
-c/o Martin Stahl
-Leipziger Str. 61a
-10117 Berlin
+Curalie GmbH \
+c/o Martin Stahl \
+Leipziger Str. 61a \
+10117 Berlin \
 
 
 ## Kontakt
