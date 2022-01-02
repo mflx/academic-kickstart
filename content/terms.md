@@ -12,7 +12,7 @@ header:
   image: ""
 ---
 
-Angaben gemäß § 5 TMG
+Angaben gemäß § 5 TMG \
 
 Verantwortlich: Martin Stahl
 
@@ -21,10 +21,9 @@ Verantwortlich: Martin Stahl
 Curalie GmbH \
 c/o Martin Stahl \
 Leipziger Str. 61a \
-10117 Berlin \
+10117 Berlin 
 
 
 ## Kontakt
-Telefon: +49 (0) 123 44 55 66
+Telefon: +49 (0) 123 44 55 66 \
 Kontakt: https://www.martinstahl.info/#contact
-                                                    2 / 3
