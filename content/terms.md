@@ -13,7 +13,6 @@ header:
 ---
 
 Angaben gemäß § 5 TMG \
-
 Verantwortlich: Martin Stahl
 
 
