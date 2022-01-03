@@ -15,6 +15,8 @@ header:
 Angaben gemäß § 5 TMG \
 Verantwortlich: Martin Stahl
 
+Mrtinstahl.info ist eine persönliche Portfolio-Seite und informiert über mich und Talks und Workshops, die ich auf Konferenzen und digitalen Events durchgeführt habe. Es stellt kein kommerzielles Angebot dar.
+
 
 ## Adresse
 Curalie GmbH \
