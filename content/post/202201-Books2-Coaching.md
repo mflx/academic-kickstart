@@ -1,7 +1,7 @@
 ---
 title: Books and ressources 2 - Coaching Organizations  
 summary: Recommended resources on how to be effective when coaching people or organizations.
-date: "2021-10-08T00:00:00Z"
+date: "2022-01-05T00:00:00Z"
 
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -28,10 +28,10 @@ Challenge here with this topic is that the approach of modern systems theory bas
 ## Foundations
 
 - Ameln, F. v. (2004). Konstruktivismus. Die Grundlagen systemischer Therapie, Beratung und Bildungsarbeit. Tübingen: UTB.
-- Klein, R. und Kannnicht, A. (2007): Einführung in die Praxis der systemischen Therapie und Beratung. Heidelberg: Carl Auer Verlag.
-- Kannicht, A. und Schmidt, B. (2015): Einführung in systemische Konzepte der Selbststeuerung. Heidelberg: Carl Auer Verlag.
+- Bateson, G. (1972): Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology. San Fransciso: Chandler Pub.
 - Kühl, S. (2020). Organisationen: Eine sehr kurze Einführung (2. Aufl.). Heidelberg: Carl-Auer.
-- Luhmann, N. (1998): Die Gesellschaft der Gesellschaft. Berlin: Suhrkamp
+- Luhmann, N. (1998): Die Gesellschaft der Gesellschaft. Berlin: Suhrkamp.
+- Luhmann, N. (2004): Einführung in die Systemtheorie. Heidelberg: Carl Auer.
 - Maturana, H. R. und Varela, F. J. (2009): Der Baum der Erkenntnis. Die biologischen Wurzeln menschlichen Erkennens. Frankfurt am Main: S. Fischer Verlage.
 - Schlippe, A. v., Schweitzer, J. (2016): Lehrbuch der systemischen Therapie und Beratung. Göttingen: Vandenhoeck & Ruprecht.
 - Schlippe, A. v., Schweitzer, J. (2014): Lehrbuch der systemischen Therapie und Beratung II. Das störungsspezifische Wissen. Göttingen: Vandenhoeck & Ruprecht.
