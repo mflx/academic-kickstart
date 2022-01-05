@@ -13,12 +13,12 @@ header:
   caption: ""
   image: ""
 ---
-## Public Trainings in 2021
+## Public Workshops in 2021 and 2022
 _Currently I offer no public trainings. If interested in one of the sessions or smaller formats, please contact me._
 
 ---
 
-## Public Trainings in Q4-2020
+## Public Workshops and Trainings in Q4-2020
 _All trainings are an [offering by Leanovate GmbH](https://www.leanovate.de/trainings/)_
 - 15.12. Grundlagen der Agilität (mit Florian Bischof) - remote / internal / DE
 - 02.12. [Grundlagen der Agilität](https://www.leanovate.de/training-buchen/?event_id=9052) - remote / DE
