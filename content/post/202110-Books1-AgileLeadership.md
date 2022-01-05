@@ -31,7 +31,7 @@ We start with #1: books on Agile (in general) and Leadership.
 
 ## Leadership
 
-- Avery, Cris: The Responsibility Process: Unlocking Your Natural Ability to Live and Lead with Power.
+- [[Avery, Cris: The Responsibility Process: Unlocking Your Natural Ability to Live and Lead with Power.|https://www.martinstahl.info/post/202112-review-theresponsibilityprocess/]]
 - Banfield, R., Eriksson, M., Walkingshaw, N.: Product Leadership: How Top Product Managers Create and Launch Successful Products.
 - Bungay, Stephen: The Art of Action: How Leaders Close the Gaps between Plans, Actions, and Results.
 - Collins, James C.: Good To Great: Why Some Companies Make The Leap and Others Don’t.
