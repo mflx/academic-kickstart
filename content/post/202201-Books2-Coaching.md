@@ -30,6 +30,7 @@ Challenge here with this topic is that the approach of modern systems theory bas
 - Ameln, F. v. (2004). Konstruktivismus. Die Grundlagen systemischer Therapie, Beratung und Bildungsarbeit. Tübingen: UTB.
 - Bateson, G. (1972): Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology. San Fransciso: Chandler Pub.
 - Kühl, S. (2020). Organisationen: Eine sehr kurze Einführung (2. Aufl.). Heidelberg: Carl-Auer.
+- Luhmann, N. (1993): Soziale Systeme. Grundriß einer allgemeinen Theorie. Frankfurt
 - Luhmann, N. (1998): Die Gesellschaft der Gesellschaft. Berlin: Suhrkamp.
 - Luhmann, N. (2004): Einführung in die Systemtheorie. Heidelberg: Carl Auer.
 - Maturana, H. R. und Varela, F. J. (2009): Der Baum der Erkenntnis. Die biologischen Wurzeln menschlichen Erkennens. Frankfurt am Main: S. Fischer Verlage.
@@ -44,6 +45,7 @@ Challenge here with this topic is that the approach of modern systems theory bas
 ## Systems thinking and constructivism
 
 - Foerster, H. von und Pörksen, B. (2004): Wahrheit ist die Erfindung eines Lügners. Gespräche für Skeptiker. Heidelberg: Carl Auer Verlag.
+- Glasersfeld, E. (2008): Radikaler Konstruktivismus: Ideen, Ergebnisse, Probleme. Nachdruck. Frankfurt/Main: Suhrkamp
 - Groth, T. (2017): 66 Gebote systemischen Denkens und Handelns in Management und Beratung. Heidelberg: Carl Auer.
 - Maturana, H. R. und Pörksen, B. (2018): Vom Sein zum Tun. Die Ursprünge der Biologie des Erkennens. Heidelberg: Carl Auer Verlag.
 - Pörksen, B. (2019): Die Gewissheit der Ungewissheit. Gespräche zum Konstruktivismus. Heidelberg: Carl Auer Verlag.
@@ -56,7 +58,9 @@ Magazine:
 
 ## Consulting and Coaching
 
+- Adkins, L. (2010): Coaching agile Teams: a companion for Scrum Masters, Agile Coaches, and Project Managers in transition. Upper Saddle River: Addison-Wesley
 - Erpenbeck, M. (2020): Wirksam werden im Kontakt. Die systemische Haltung im Coaching. Heidelberg: Carl Auer Verlag.
+- Radatz, S. (2010): Einführung in das systemische Coaching. 4. Auflage. Heidelberg: Carl Auer.
 - Schlippe, A.v. und Schweitzer, J. (2019): Gewusst wie, gewusst warum. Die Logik systemischer Interventionen. Göttingen: Vandenhoeck & Ruprecht.
 - Schlippe, A. v., Schweitzer, J. (2019): Systemische Interventionen. Stuttgart: utb.
 
@@ -66,15 +70,18 @@ Magazine:
 
 - Baecker, D. (2011): Organisation und Störung. Aufsätze. Berlin: Suhrkamp
 - Groth, T., Krejci, G. P., Günther, S. (2021): New Organizing. Wie Großorganisationen Agilität, Holacracy & Co. einführen - und was man daraus lernen kann. Heidelberg: Carl Auer.
+- Grubendorfer, Ch. (2016): Einführung in die systemische Konzepte der Unternehmenskultur. Heidelberg: Carl Auer.
 - Weick, Karl E. (1995): Der Prozess des Organisierens. Berlin: Suhrkamp
 
 
 
-## Organisational Consulting
+## Organizational Consulting
 
 - Edmondson, Amy C. (2019): The fearless organization. Creating psychological safety in the workplace for learning, innovation and growth. Hoboken NJ: John Wiley & Sons.
 - Geramanis, O. und Hutmacher, S. (2019): Der Mensch in der Selbstorganisation. Kooperationskonzepte für eine dynamische Arbeitswelt. Berlin: Springer
 - Kegan, R., Lahley L. L. (2009): Immunity to Change. How to overcome it and unlock the potential in yourself and your organization. Boston: Harvard Business Publishing
+- Königswieser, R., Exner, A. (2008): Systemische Intervention: Architekturen und Designs für Berater und Veränderungsmanager. Stuttgart: Schäffer-Poeschel.
+- Königswieser, R., Hillebrand, M. (2017): Einführung in die systemische Organisationsberatung. Heidelberg: Carl Auer.
 - Kühl, S. (2015). Das Regenmacher-Phänomen: Widersprüche im Konzept der lernenden Organisation (2. Aufl.). Frankfurt/M.: Campus.
 - Senge, Peter M. (2006): The fifth discipline. The Art & Practice of the Learning Organization. Revised Edition. NY: Penguin Random House
 - Tomaschek, N. (Hrsg.)(2009): Systemische Organisationsentwicklung und Beratung bei Veränderungsprozessen. Ein Handbuch. Heidelberg: Carl Auer.
