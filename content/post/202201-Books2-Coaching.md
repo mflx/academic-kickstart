@@ -16,13 +16,13 @@ header:
 
 A question I get asked regularly: what books can you recommend on (insert topic)? Therefore, in this series of articles, I present books and ressources that could be helpful for many. The posts will be frequently updated. 
 
-Part II: Approaching people, teams and organizations. Coaching and consulting with modern systems theory.
+*Part II: Approaching people, teams and organizations. Coaching and consulting with modern systems theory.*
 
 Part I: [Agile and Leadership](https://www.martinstahl.info/post/202110-books1-agileleadership/)
 
 --
 
-Challenge here with this topic is that the approach of modern systems theory based on Luhmann's theory of social systems seems more popular in the German speaking world. As somebody who as someone who feels connected to this approach my book is mostly in German. Please check back in a while since I Will add books in English as soon as possible.
+_Challenge here with this topic is that the approach of modern systems theory based on Luhmann's theory of social systems seems more popular in the German speaking world. As somebody who as someone who feels connected to this approach my book list contains mostly books written in German. I'll add books in English as soon as possible._
 
 
 ## Foundations
