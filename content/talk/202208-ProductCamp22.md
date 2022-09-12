@@ -22,7 +22,7 @@ tags: [leadership, selfmanagement, prodmgmt]
 featured: false
 
 image:
-  caption: '[Session Board, picture by productcampberlin.org](https://www.martinstahl.info/img/2208-ProductCamp-Tafel.jpeg)
+  caption: '[Session Board, picture by productcampberlin.org](https://www.martinstahl.info/img/2208-ProductCamp-Tafel.jpeg)'
   focal_point: Right
 
 links:
