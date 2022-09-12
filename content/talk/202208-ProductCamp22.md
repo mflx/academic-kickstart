@@ -21,7 +21,7 @@ tags: [leadership, selfmanagement, prodmgmt]
 # Is this a featured talk? (true/false)
 featured: false
 
-image: ""
+image:
   caption: '[Session Board, picture by productcampberlin.org](https://www.martinstahl.info/img/2208-ProductCamp-Tafel.jpeg)
   focal_point: Right
 
