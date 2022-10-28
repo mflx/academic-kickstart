@@ -36,7 +36,7 @@ social:
   link: https://www.xing.com/profile/Martin_Stahl4
 - icon: mastodon
   icon_pack: fab
-  link: [https://social.tchncs.de/@mflx]
+  link: https://social.tchncs.de/@mflx
 
   
 # Link to a PDF of your resume/CV from the About widget.
