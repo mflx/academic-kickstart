@@ -36,10 +36,8 @@ social:
   link: https://www.xing.com/profile/Martin_Stahl4
 - icon: mastodon
   icon_pack: fab
-  link: https://team1.rocks/@martin
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/mflx
+  link: [https://social.tchncs.de/@mflx]
+
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -63,6 +61,6 @@ Things I do:
 
 * Building a digital health platform with Curalie
 * Consulting in Organizational Development & Agile Transitions
-* [Business Coaching](businesscoach) - [accredited by ICF](https://www.youracclaim.com/badges/b6f0e15f-0e0f-43b8-8ea4-6151c7dc0207/public_url)
+* [Business Coaching](businesscoach) - accredited by [International Coaching Federation](https://www.youracclaim.com/badges/b6f0e15f-0e0f-43b8-8ea4-6151c7dc0207/public_url)
 
 Interested in finding out [more about me](credentials/aboutme)? 
