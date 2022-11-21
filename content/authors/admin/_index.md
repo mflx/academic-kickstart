@@ -36,7 +36,7 @@ social:
   link: https://www.xing.com/profile/Martin_Stahl4
 - icon: mastodon
   icon_pack: fab
-  link: <a rel="me" href="https://social.tchncs.de/@mflx">Mastodon</a>
+  link: https://social.tchncs.de/@mflx
  
 
   
