@@ -1,6 +1,6 @@
 ---
 title: Was ist Coaching (Teil 1)
-summary: Was ist wirklich Coaching und wie kann es mich unterstützen
+summary: Was ist wirklich Coaching und wie kann es dich unterstützen. German version.
 date: "2023-03-12T12:00:00Z"
 
 reading_time: true  # Show estimated reading time?
@@ -42,9 +42,6 @@ _Ein Beispiel: Ich habe Kopfweh und eine laufende Nase und gehe zur Ärztin. Sie
 
 Mit dieser Unterscheidung lassen sich verschiedene Beratungsformen wie z.b. **Coaching, Supervision, Therapie, Mediation oder Expertenberatung** abgrenzen. Während es für sehr einfache Problemstellungen standardisierte Lösungen geben kann, scheitert es für komplexere Themen schon bei der richtigen Problemerkenntnis, sprich Diagnose.
 
-
-
-![Beratungsformen im ECVision](ECVision-Beratungsformen.jpg)
 
 Das **(professionelle) Coaching** kann in den genannten Phasen recht einfach einsortiert werden: 
 Hier liegt der Fokus auf einem _partnerschaftlichen Begleiten_ bei der Bearbeitung des Problems. Die Problemdiagnose wie auch die Lösung bleiben vollständig bei dem Clienten oder der Clientin. Coaching agiert hier als **Prozessbegleitung, als Fragensteller**. 
