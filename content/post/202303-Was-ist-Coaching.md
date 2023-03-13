@@ -44,7 +44,7 @@ Mit dieser Unterscheidung lassen sich verschiedene Beratungsformen wie z.b. **Co
 
 
 
-![Bild Beratungsformen im ECVision ](ECVision-Beratungsformen.jpg "Beratungsformen im ECVision")
+![Beratungsformen im ECVision](ECVision-Beratungsformen.jpg)
 
 Das **(professionelle) Coaching** kann in den genannten Phasen recht einfach einsortiert werden: 
 Hier liegt der Fokus auf einem _partnerschaftlichen Begleiten_ bei der Bearbeitung des Problems. Die Problemdiagnose wie auch die Lösung bleiben vollständig bei dem Clienten oder der Clientin. Coaching agiert hier als **Prozessbegleitung, als Fragensteller**. 
