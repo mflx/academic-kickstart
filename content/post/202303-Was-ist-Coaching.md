@@ -1,6 +1,6 @@
 ---
 title: Was ist Coaching (Teil 1)
-summary: Was ist wirklich Coaching und wie kann es mich unterstützen?
+summary: Was ist wirklich Coaching und wie kann es mich unterstützen
 date: "2023-03-13T18:00:00Z"
 
 reading_time: true  # Show estimated reading time?
