@@ -25,10 +25,10 @@ image:
   focal_point: Right
 
 links:
-- icon: 
-  icon_pack: 
-  name: 
-  url:
+- icon: twitter
+  icon_pack: fab
+  name: Martin
+  url: https://social.tchncs.de/@mflx
 url_code: ""
 url_pdf: "https://www.martinstahl.info/media/202303-ProductPeople-Meetup-Lifecycles.pdf"
 url_slides: ""
