@@ -12,7 +12,7 @@ date: "2023-03-21T17:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2023-03-22T17:00:00Z"
+publishDate: "2023-03-21T18:00:00Z"
 
 authors: [Martin]
 tags: [product, organization]
