@@ -32,7 +32,7 @@ links:
 url_code: ""
 url_pdf: "https://www.martinstahl.info/media/202303-ProductPeople-Meetup-Lifecycles.pdf"
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=LpPEyjROE10"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
