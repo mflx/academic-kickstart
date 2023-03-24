@@ -25,7 +25,7 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
+- icon: mastodon
   icon_pack: fab
   name: Martin
   url: https://social.tchncs.de/@mflx
