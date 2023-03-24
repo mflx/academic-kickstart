@@ -14,7 +14,7 @@ header:
 
 ---
 
-{{< hl >}}English version of this article will be published on [ProdCultOrg](https://blog.productcult.org/).{{< /hl >}}
+{{< hl >}}English version of this article is available on [ProductCultureOrg](https://blog.productcult.org/p/what-is-coaching-like-really).{{< /hl >}}
 
 --
 
