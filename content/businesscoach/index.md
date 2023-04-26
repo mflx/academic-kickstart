@@ -22,7 +22,7 @@ Currently Business Coaching sessions are only available in German. For Product C
 Wir bieten für **berufliche, weiterentwicklungs- und karrierebezogene Themen** ein Business Coaching mit systemischen und lösungsfokussierten Ansatz an. Im Coaching erarbeiten wir gemeinsam eine Zielsetzung und schauen uns an, wie du mit **deinen Möglichkeiten und Stärken** zu einer befriedigenden und **nachhaltigen Lösung** kommst.
 
 
-Als Mitglied des weltweit größten Coachingverbandes, der **International Coach Federation** arbeite ich unter deren [Code of Ethics](https://coachfederation.org/code-of-ethics-overview) und bin als [Associate Certified Coach](https://www.youracclaim.com/badges/b6f0e15f-0e0f-43b8-8ea4-6151c7dc0207/public_url) qualifiziert. Meine Ausbildung zum systemischen Business Coach habe ich 2019 an der Hochschule Wismar absolviert. 
+Als Mitglied des weltweit größten Coachingverbandes, der **International Coach Federation** arbeite ich unter deren [Code of Ethics](https://coachfederation.org/code-of-ethics-overview) und bin als [Associate Certified Coach](https://www.youracclaim.com/badges/b6f0e15f-0e0f-43b8-8ea4-6151c7dc0207/public_url) qualifiziert. Meine Ausbildung zum systemischen Business Coach habe ich 2019 an der Hochschule Wismar absolviert. Als Mentorin wirkte [Kerstin Dierolf](https://www.solutionsacademy.com/who-we-are) (MCC, Solution Focused Academy).
 
 ![ICF Logo](https://www.martinstahl.info/img/ICF_PC_Horizontal_Blue.png)
 
