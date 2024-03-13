@@ -62,7 +62,7 @@ Things I do:
 
 * Building an international digital health platform with Curalie / Fresenius Group
 * Consulting scaling organizations and teams in Product Management and Business Agility
-* [Business Coaching](businesscoach) - accredited by [International Coaching Federation](https://www.youracclaim.com/badges/b6f0e15f-0e0f-43b8-8ea4-6151c7dc0207/public_url)
+* [Business Coaching](businesscoach) for individuals - accredited by [International Coaching Federation](https://www.youracclaim.com/badges/b6f0e15f-0e0f-43b8-8ea4-6151c7dc0207/public_url)
 
 Interested in finding out [more about me](credentials/aboutme)? 
 #product #innovation #ehealth
