@@ -59,10 +59,11 @@ Product Management means different things in different contexts. Still, we talk 
 
 [Link to vido on youtube](https://www.youtube.com/watch?v=LpPEyjROE10)
 
+--- 
 
 ## Summary of the talk ##
 
-Educational summary of [Product Management in Different Stages of a Product by Martin Stahl, CPO at Curalie](https://www.youtube.com/watch?v=LpPEyjROE10) by [Video Summarizer](https://chat.openai.com/g/g-GvcYCKPIH-video-summarizer-ai):
+_Educational summary of [Product Management in Different Stages of a Product by Martin Stahl, CPO at Curalie](https://www.youtube.com/watch?v=LpPEyjROE10) by [Video Summarizer](https://chat.openai.com/g/g-GvcYCKPIH-video-summarizer-ai)_
 
 Martin Stahl, the Chief Product Officer at Curalie, discusses the nuances of product management across different stages of a product's lifecycle. This in-depth exploration provides valuable insights into how product management strategies and focuses shift as a product evolves from conception to maturity. Here are the highlights from his presentation:
 
