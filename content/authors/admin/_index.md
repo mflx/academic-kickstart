@@ -56,7 +56,7 @@ user_groups:
 - Visitors
 ---
 
-**Digital Product Manager** and **Organizational Coach** with over 15 years of experience in the Berlin start-up world.
+**Digital Product Manager** and **Organizational Coach** with 20 years of experience in the Berlin start-up world.
 
 Things I do:
 
