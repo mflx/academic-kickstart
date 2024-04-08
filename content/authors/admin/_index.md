@@ -18,7 +18,7 @@ organizations:
   url: "https://www.curalie.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Digital Product Manager in Startups for over a decade. Now Coaching, Training and Consulting for Digital Product Management.
+bio: Digital Product Manager in Startups for over a decade. Now Coaching, Training and Consulting for Product Management and Innovation.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -61,7 +61,7 @@ user_groups:
 Things I do:
 
 * Building an international digital health platform with Curalie / Fresenius Group
-* Consulting scaling organizations and teams in Product Management and Business Agility
+* Consulting scaling organizations and teams in Product Management and Innovation
 * [Business Coaching](businesscoach) for individuals - accredited by [International Coaching Federation](https://www.youracclaim.com/badges/b6f0e15f-0e0f-43b8-8ea4-6151c7dc0207/public_url)
 
 Interested in finding out [more about me](credentials/aboutme)?
