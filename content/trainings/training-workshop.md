@@ -13,7 +13,6 @@ header:
   caption: ""
   image: ""
 ---
-## Public Workshops in 2021 and 2022
 _Currently I offer no public trainings. If interested in one of the sessions or smaller formats, please contact me._
 
 ---
