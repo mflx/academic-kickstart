@@ -56,12 +56,12 @@ user_groups:
 - Visitors
 ---
 
-**Digital Product Manager** and **Organizational Coach** with 20 years of experience in the Berlin start-up world.
+I’m a **Digital Product Manager** and **Organizational Consultant** with a proven track record of over 15 years in Berlin’s start-up ecosystem. Loves building innovative products that add real value, and cultivating motivated teams around them.
 
-Things I do:
+Things I currently do:
 
-* Building an international digital health platform with Curalie / Fresenius Group
+* Building an international digital health platform with Curalie / Fresenius Group (until 3/2024)
 * Consulting scaling organizations and teams in Product Management and Innovation
-* [Business Coaching (ICF)](businesscoach) for individuals in Product, Tech and Innovation
+* [Business Coaching (ICF)](businesscoach) and sparring for individuals in Product, Tech and Innovation
 
 Interested in finding out [more about me](credentials/aboutme)?
