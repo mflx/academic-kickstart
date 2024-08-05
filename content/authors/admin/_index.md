@@ -14,7 +14,7 @@ role: Chief Product Officer (CPO)
 
 # Organizations/Affiliations
 organizations:
-- name: Curalie GmbH
+- name: Curalie GmbH / Fresenius Group
   url: "https://www.curalie.com"
 
 # Short bio (displayed in user profile at end of posts)
@@ -60,7 +60,7 @@ I’m a **Digital Product Leader** and **Organizational Consultant** with a prov
 
 Things I currently do:
 
-* Building an international digital health platform with Curalie / Fresenius Group (until 3/2024)
+* Building an international digital health platform with Fresenius Group (until 3/2024)
 * Consulting scaling organizations and teams in Product Management and Innovation
 * [Business Coaching (ICF)](businesscoach) and sparring for individuals in Product, Tech and Innovation
 
