@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Chief Product Officer (CPO)
+role: Product Consultant
 
 # Organizations/Affiliations
 organizations:
-- name: Curalie GmbH / Fresenius Group
-  url: "https://www.curalie.com"
+- name: MakeProduct.Work
+  url: "https://makeproduct.work"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Digital Product Manager in Startups for over a decade. Now Coaching, Training and Consulting for Product Management and Innovation.
+bio: Digital Product Leader in Startups for over a decade. Now Coaching, Training and Consulting for Product Management and Innovation.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -60,8 +60,8 @@ I’m a **Digital Product Leader** and **Organizational Consultant** with a prov
 
 Things I currently do:
 
-* Building an international digital health platform with Fresenius Group (until 3/2024)
 * Consulting scaling organizations and teams in Product Management and Innovation
 * [Business Coaching (ICF)](businesscoach) and sparring for individuals in Product, Tech and Innovation
+* Building an international digital health platform with Fresenius Group as CPO (until 3/2024)
 
 Interested in finding out [more about me](credentials/aboutme)?
