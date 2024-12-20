@@ -29,7 +29,7 @@ I work and lead based on the **values** focus, collaboration, transparency, resp
 ---
   
   
-### Domains
+### Industries and domains
 
 Experience and clients across multiple domains in international companies. Expert knowledge in eCommerce, platforms and classified, solid knowledge in cybersecurity and eHealth. Multiple customer groups: B2C, B2B, C2B. Strong in explore and scaling business phase. 
   
@@ -38,7 +38,7 @@ Experience and clients across multiple domains in international companies. Exper
   
   
 ### Companies
-- **Leading product** at [Lieferando](https://www.lieferando.de/) (2011-2013), [Flaconi](https://www.flaconi.de/) (2014-2015) and [Curalie](https://www.curalie.com) (since 2021). 
+- **Leading product** at [Lieferando](https://www.lieferando.de/) (2011-2013), [Flaconi](https://www.flaconi.de/) (2014-2015) and Fresenius Group / Curalie (2021-2024). 
 
 - **Product Management / Product Ownership / Product team lead roles** at TopTarif, aladoo.de, [nu3.de](https://www.nu3.de/), [mobile.de](https://www.mobile.de/verkaufen/auto/) and others.
 
@@ -52,10 +52,9 @@ Experience and clients across multiple domains in international companies. Exper
   
 ### Education
 
+Master (M.A.) in Systemic Consulting with focus on Organizational Consulting (RPTU Technical University Kaiserslautern 2024). Background in **Philosophy, Political Science and Economics** (University of Heidelberg). 
+Trained **Software Product Manager** (University of Alberta 2017).
+
 Trained **Systemic Business Coach** (University of Applied Science Wismar 2019, Solutions Academy 2020, International Coach Federation 2020) and as part of my ongoing professional development certified by [Scrum Alliance](https://www.scrumalliance.org/community/profile/mstahl7), [Kanban University](https://edu.kanban.university/users/martin-stahl), [Scrum.org](https://www.scrum.org/user/251980), ICAgile and others. 
 
-Member of [Scrum Alliance](https://www.scrumalliance.org/) and [Scrum Alliance DACH e.V.](https://scrumdach.org/), [International Coach Federation](https://coachfederation.org/) and [Intrinsify Network](https://intrinsify.de). I'm part of the organizing team of [Agile Camp Berlin](https://agile-camp-berlin.com/) and a mentor at [MentorMe](https://mentorme-ngo.org/). 
-
-Background in **Philosophy, Political Science and Economics** (University of Heidelberg). Trained **Software Product Manager** (University of Alberta 2017). Currently attending a post-grad Master's programme in **Systemic Consulting** (RPTU Technical University Kaiserslautern).
-
-{{< figure library="true" src="badges-mix.jpg" title="Certificates" >}}
+Member of [Scrum Alliance](https://www.scrumalliance.org/) and [Scrum Alliance DACH e.V.](https://scrumdach.org/) and [International Coach Federation](https://coachfederation.org/). 
