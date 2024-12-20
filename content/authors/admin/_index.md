@@ -62,6 +62,6 @@ Things I currently do:
 
 * Consulting scaling organizations and teams in Product Management and Innovation
 * [Business Coaching (ICF)](businesscoach) and sparring for individuals in Product, Tech and Innovation
-* Building an international digital health platform with Fresenius Group as CPO (until 3/2024)
+* Building an international digital health platform with Fresenius Group as Chief Product Officer (until 2024)
 
 Interested in finding out [more about me](credentials/aboutme)?
