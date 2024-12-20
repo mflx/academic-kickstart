@@ -13,17 +13,17 @@ header:
   caption: ""
   image: ""
 ---
-_Currently I offer no public trainings. If interested in one of the sessions or smaller formats, please contact me._
 
----
+## Public Workshops and Trainings in 2025
+_All trainings in cooperation with [Haufe Akademie](https://www.haufe-akademie.de)._
+- [Future skills im digitalen Produktmanagement](https://www.haufe-akademie.de): several dates available in Germany and remote - in German.
 
-## Public Workshops and Trainings in Q4-2020
-_All trainings are an [offering by Leanovate GmbH](https://www.leanovate.de/trainings/)_
-- 15.12. Grundlagen der Agilität (mit Florian Bischof) - remote / internal / DE
-- 02.12. [Grundlagen der Agilität](https://www.leanovate.de/training-buchen/?event_id=9052) - remote / DE
-- 27.11. What's Product? (Product Building Blocks 1) - remote / EN
-- 23.11. - 23.11. [Agile Product Management](https://www.leanovate.de/training-buchen/?event_id=9054) (mit Katrin Riske) remote / DE
-- 20.10. Product Strategy (Product Building Blocks 2)(mit Katrin Riske) - remote / EN
-- 07.10. [Grundlagen der Agilität](https://www.leanovate.de/training-buchen/?event_id=9051) - remote / DE
-- 25.09. What's Product? (Product Building Blocks 1) - remote / EN
+## older workshops until 2020 with Leanovate
+- 15.12.20 Grundlagen der Agilität (mit Florian Bischof) - remote / internal / DE
+- 02.12.20 [Grundlagen der Agilität](https://www.leanovate.de/training-buchen/?event_id=9052) - remote / DE
+- 27.11.20 What's Product? (Product Building Blocks 1) - remote / EN
+- 23.11.20 - 23.11. [Agile Product Management](https://www.leanovate.de/training-buchen/?event_id=9054) (mit Katrin Riske) remote / DE
+- 20.10.20 Product Strategy (Product Building Blocks 2)(mit Katrin Riske) - remote / EN
+- 07.10.20 [Grundlagen der Agilität](https://www.leanovate.de/training-buchen/?event_id=9051) - remote / DE
+- 25.09.20 What's Product? (Product Building Blocks 1) - remote / EN
 
