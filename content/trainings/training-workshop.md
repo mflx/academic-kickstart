@@ -14,8 +14,9 @@ header:
   image: ""
 ---
 
-## Public Workshops and Trainings in 2025
 _All trainings in cooperation with [Haufe Akademie](https://www.haufe-akademie.de)._
 - [Future skills im digitalen Produktmanagement](https://www.haufe-akademie.de): several dates available in Germany and remote - in German.
+
+Official Partner of Haufe Akademie.
 
 
