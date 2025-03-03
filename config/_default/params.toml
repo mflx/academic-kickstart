@@ -48,7 +48,7 @@ local_business_type = "ProfessionalService"
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Digital Product Management and Business Coaching ツ"
+description = "Martin Stahl - Organisational Consultant ツ"
 
 ############################
 ## Site Features
