@@ -18,7 +18,7 @@ organizations:
   url: "https://makeproduct.work"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Digital Product Leader in Startups for over a decade. Now Coaching, Training and Consulting for Product Management and Innovation.
+bio: Building digital Products in Startups for over a decade. Currently coaching and consulting in Product Management, digital innovation and Organisational Development.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -61,7 +61,6 @@ I’m a **Digital Product Leader** and **Organizational Consultant** with a prov
 Things I currently do:
 
 * Consulting scaling organizations and teams in Product Management and Innovation
-* [Business Coaching (ICF)](businesscoach) and sparring for individuals in Product, Tech and Innovation
-* Building an international digital health platform with Fresenius Group as Chief Product Officer (until 2024)
+* [Business Coaching](businesscoach) and sparring for individuals in Product, Tech and Strategy
 
 Interested in finding out [more about me](credentials/aboutme)?
