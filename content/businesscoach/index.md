@@ -1,7 +1,7 @@
 ---
-title: Systemisches Business Coaching
-summary: Stärkung deiner Lösungskompetenz mit Coaching.
-date: "2019-07-28T00:00:00Z"
+title: Business Coaching
+summary: Unlock Your Full Potential with Personalized Coaching.
+date: "2025-03-03T00:00:00Z"
 
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -13,61 +13,49 @@ header:
   caption: ""
   image: ""
 ---
-Du möchtest **etwas bewegen** oder im beruflichen oder persönlichen Umfeld **eine Veränderung** treiben und wachsen?
+## Elevate Your Career in Product & Tech 
 
-{{% alert note %}}
-Currently Business Coaching sessions are only available in German. For Product Coaching please contact me for capacities.
-{{% /alert %}}
+We specialize in empowering professionals mainly in the product and tech industry to achieve their highest potential. Our coaching program is meticulously designed to offer a personalized and systemic approach, ensuring you receive tailored guidance that aligns perfectly with your unique goals and challenges.
 
-Wir bieten für **berufliche, weiterentwicklungs- und karrierebezogene Themen** ein Business Coaching mit systemischen und lösungsfokussierten Ansatz an. Im Coaching erarbeiten wir gemeinsam eine Zielsetzung und schauen uns an, wie du mit **deinen Möglichkeiten und Stärken** zu einer befriedigenden und **nachhaltigen Lösung** kommst.
+### Business Coaching: Our Philosophy
+
+**What is Coaching?** 
+Professional Coaching is understood as a solution-oriented process support, aiding clients in solving their issues. Clients work towards their own solutions and are responsible for the implementation. The coach expands the perception of the problem and initiates a change in perspective. The goal is to enable client self-management through a resource-oriented solution approach.
+
+**Sparring in Product Management and Org Development**
+Beside the Professional Coaching approach we are also open for sparring in your daily topics or long-term strategic challenges. We bring in some fresh ideas and share experiences from our professional live. 
+
+### Why Choose Us?
+
+Martin Stahl is a trained Systemic Business Coach (University of Applied Science Wismar, Germany), has a Master's degree (M.A.) in Systemic Consulting (RTPU Technical University), and is accredited by the International Coaching Federation (ICF). 
+Mentored by [Kerstin Dierolf](https://www.solutionsacademy.com/who-we-are) (MCC, Solution Focused Academy).
+
+**Your customized Coaching Plan**
+With a focus on personalization, we ensure that every aspect of your coaching experience is aligned with your personal and professional objectives.
+
+**Commitment to Confidentiality** 
+We guarantee a safe, confidential space for you to explore your challenges and goals. See also the [ICF Code of Ethics](https://coachingfederation.org/ethics/code-of-ethics).
+
+**Flexible Coaching Formats**
+Whether you prefer in-person sessions, video calls, or another format, we're here to accommodate your needs.
+
+### Proven Results
+
+Our coaching program stands out with its track record of proven results:
+
+- Enhanced Problem-Solving Skills
+- Increased Productivity
+- Improved Leadership Abilities
+- Career Advancement
+- Personal Growth
 
 
-Als Mitglied des weltweit größten Coachingverbandes, der **International Coach Federation** arbeite ich unter deren [Code of Ethics](https://coachfederation.org/code-of-ethics-overview) und bin als [Associate Certified Coach](https://www.youracclaim.com/badges/b6f0e15f-0e0f-43b8-8ea4-6151c7dc0207/public_url) qualifiziert. Meine Ausbildung zum systemischen Business Coach habe ich 2019 an der Hochschule Wismar absolviert. Als Mentorin wirkte [Kerstin Dierolf](https://www.solutionsacademy.com/who-we-are) (MCC, Solution Focused Academy).
+### What You Can Expect
 
-![ICF Logo](https://www.martinstahl.info/img/ICF_PC_Horizontal_Blue.png)
+Our coaching sessions are structured through five phases, providing a clear and effective framework for your development:
 
-
-## Was sind typische Themen und Fragestellungen für dein Business Coaching?
-
-Ein Businesscoaching begleitet bei allen berufs- oder karrierebezogenen Themen, wie z.B.
-
-* Berufliche Veränderung, 
-* Stärken und Schwächen, 
-* (Selbst-) Reflexion insb. beruflicher Herausforderungen, 
-* Führung, 
-* Laufbahnentscheidungen und Neuorientierung, 
-* Visionsarbeit, 
-* Umgang mit Change, 
-* Herausforderungen im Team, uvm.
-
-In meiner Rolle als Coach bin ich **dein Prozessbegleiter und Fragensteller**, eine dezidierte fachliche Beratung findet nicht oder nur in vorheriger Absprache statt.
-
---
-
-## Das erwartet dich: so ist das Coaching aufgebaut
-
-Die Coachingsessions sind durch fünf Phasen strukturiert:
-
-1. Kennenlernen, Kontrakt, Vorstellung des Themas
-2. Ausarbeitung des Themas mit Zielklärung
-3. Identifikation der eigenen Ressourcen und Möglichkeiten
-4. Verhaltens- und Lösungsoptionen herausarbeiten und priorisieren
-5. Abschluss / Controlling / Review
-
---
-
-## Wie lange geht das Coaching?
-
-Abhängig vom Thema muss mit zwischen einer und 5-10h gerechnet werden, typischerweise aufgeteilt in mehrere Sessions. Der Klient kann den Prozess jederzeit beenden, wenn sich das Thema erledigt hat oder bereits eine Lösung gefunden wurde. Die meisten Fragestellungen kommen mit 1-2 Sessions aus.
-
---
-
-## Grundlage: Was ist Systemisches Business Coaching?
-
-SBC baut auf modernen Konzepten systemtheoretischer Wissenschaft auf. Menschen, Herausforderungen oder einzelne Phänomene werden nicht isoliert und mono-kausal betrachtet (Ursache - Wirkung), sondern eingebettet in und als Teil eines sozialen Systems, das permanent in Bewegung ist und sich beeinflußt. Durch *systemisches* Coaching wird dieses System transparent und die Wechselwirkungen sichtbar. Ziel ist es, Gedankenzirkel aufzulösen, den Handlungsspielraum durch Finden neuer Optionen deutlich zu erhöhen und zufriedenstellend zu lösen.
-
-![Moderationskarten](https://66.media.tumblr.com/c15b8ad270bc0dee356a8be6f6b1c43c/tumblr_inline_ptxeb4Wzlj1qzxh86_500.jpg)
-
-**Coaching** in diesem Zusammenhang bedeutet eine **lösungsorientierte** Prozessbegleitung, die den Klienten bei der Lösung seiner Fragestellung unterstützt. Die Klientin / der Klient erarbeitet sich also ihre / seine Lösung selbst und ist auch für die Umsetzung selbst verantwortlich. Der Coach erweitert die Wahrnehmung des Problems und leitet Perspektivwechsel ein. Ziel ist die Selbststeuerung des Klientens / der Klientin durch den **ressourcen-orientierten** Lösungsansatz.
-
-Der **systemische Coachingprozess** ist wissenschaftlich fundiert nach der [Kepner- & Tregoe-Methode](https://de.wikipedia.org/wiki/Kepner-Tregoe) und der Selbstlernprozess nach dem [Rubikon-Modell nach Heckhausen](https://de.wikipedia.org/wiki/Rubikonmodell_der_Handlungsphasen). Als theoretisches Fundament dient die Systemtheorie, insbesondere nach Luhmann. 
+1. **Presentation of the Topic**: Get acquainted and establish a coaching agreement, followed by an introduction to your topic or challenge.
+2. **Exploration of the Topic with Goal Clarification**: Dive deep into the topic at hand, clarifying goals and setting the direction for our work together.
+3. **Identification of Personal Resources and Opportunities**: Uncover and recognize your own resources and possibilities, strengthening your foundation for change.
+4. **Development and Prioritization of Behavioral and Solution Options**: Collaboratively work out and prioritize viable behaviors and solutions, preparing for actionable steps.
+5. **Conclusion / Monitoring / Review**: Wrap up the coaching process with a review and controlling phase, ensuring the sustainability of your development and preparing for future success.
