@@ -3,7 +3,7 @@ title: Angebotsentwicklung mit agilen Methoden
 event: TrainCamp 2020
 event_url: https://www.managerseminare.de/veranstaltungen/traincamp
 location: virtual	
-summary: Wie kann man Angebote für Training, Coaching oder Beratung iterativ und hypothesenbasiert entwickeln? Einen Überblick über Vorgehen, Mindset und hilfreiche Modelle.
+summary: Wie kann man Angebote für Training, Coaching oder Beratung iterativ und hypothesenbasiert entwickeln? Einen Überblick über Vorgehen, Mindset und hilfreiche Modelle (TrainCamp 2020).
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
