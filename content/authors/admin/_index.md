@@ -56,11 +56,12 @@ user_groups:
 - Visitors
 ---
 
-I’m a **Digital Product Leader** and **Organizational Consultant** with a proven track record of over 15 years in Berlin’s start-up ecosystem. Loves building innovative products that add real value, and cultivating motivated teams around them. 
+I’m a **Digital Product Manager** and **Organizational Consultant** with a proven track record of over 15 years in Berlin’s start-up ecosystem. Loves building innovative products that add real value, and cultivating motivated teams around them. 
 
 Things I currently do:
 
-* Consulting scaling organizations and teams in Product Management and Innovation
+* Consulting scaling organizations and teams in Product Management, Tech and Innovation
 * [Business Coaching](businesscoach) and sparring for individuals in Product, Tech and Strategy
+* Former Chief Product Officer at an corporate ehealth innovation hub 
 
 Interested in finding out [more about me](credentials/aboutme)?
