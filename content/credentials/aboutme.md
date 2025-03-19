@@ -43,8 +43,9 @@ Strong in explore and scaling business phase.
 
 - **Product Management / Product Ownership / Product team lead roles** at TopTarif, aladoo.de, [nu3.de](https://www.nu3.de/), [mobile.de](https://www.mobile.de/verkaufen/auto/) and others.
 
-- **Consulting and training** at [Leanovate](https://www.leanovate.de) (2017-2020) in Product Management, Agile/Scrum/Kanban and team development with clients at [eBay Classifieds Group](https://www.ebayclassifiedsgroup.com/), [DCSO](https://www.dcso.de/), [myToys/Otto Group](https://www.mytoys.de/) and many others. 
+- **Consulting and training** at [Leanovate](https://www.leanovate.de) (2017-2021) in Product Management, Agile/Scrum/Kanban and team development with clients at [eBay Classifieds Group](https://www.ebayclassifiedsgroup.com/), [DCSO](https://www.dcso.de/), [myToys/Otto Group](https://www.mytoys.de/) and many others. 
 
+- **Organisational Development** with [Leanovate](https://www.leanovate.de/services/coaching-consulting/) (2017-2021).
 - **Head of Coaching & Consulting** - leading a team of Agile and Organizational Development Coaches, Product Consultants and Dev Coaches at [Leanovate](https://www.leanovate.de/services/coaching-consulting/) (2019-2020). 
   
   
