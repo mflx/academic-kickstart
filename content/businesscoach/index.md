@@ -27,8 +27,9 @@ Beside the Professional Coaching approach we are also open for sparring in your 
 
 ### Why Choose Us?
 
-Martin Stahl is a trained Systemic Business Coach (University of Applied Science Wismar, Germany), has a Master's degree (M.A.) in Systemic Consulting (RTPU Technical University), and is accredited by the International Coaching Federation (ICF). 
+Martin Stahl is a trained **Systemic Business Coach (University of Applied Science Wismar, Germany)**, has a **Master's degree (M.A.) in Systemic Consulting (RPTU Technical University Kaiserslautern)**. 
 Mentored by [Kerstin Dierolf](https://www.solutionsacademy.com/who-we-are) (MCC, Solution Focused Academy).
+Accredited by the **International Coaching Federation (ICF)** as ACC (2020-2025, discontinued).
 
 **Your customized Coaching Plan**
 With a focus on personalization, we ensure that every aspect of your coaching experience is aligned with your personal and professional objectives.
