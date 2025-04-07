@@ -60,6 +60,8 @@ Dealing with high uncertainty, low-quality data, and intransparent decision-maki
 
 
 --- 
+Re-watch talk incl. discussion on [LinkedIn](https://www.linkedin.com/events/probabilisticthinkingforproduct7303068052974149632/). Video also available on [PeerTube](https://tube.tchncs.de/w/6g83e5QZxRuAQEkjGCm6zG).
+
 
 ## Summary of the talk ##
 
