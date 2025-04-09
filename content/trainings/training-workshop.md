@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 Available trainings:
-[Future skills im digitalen Produktmanagement]([https://www.haufe-akademie.de](https://www.haufe-akademie.de/36503): several dates available in Germany and remote - in German.
+[Future skills im digitalen Produktmanagement](https://www.haufe-akademie.de](https://www.haufe-akademie.de/36503): several dates available in Germany and remote - in German.
 
 
 Official Partner of [Haufe Akademie](https://www.haufe-akademie.de).
