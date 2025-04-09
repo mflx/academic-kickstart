@@ -13,10 +13,9 @@ header:
   caption: ""
   image: ""
 ---
-
-_All trainings in cooperation with [Haufe Akademie](https://www.haufe-akademie.de)._
 - [Future skills im digitalen Produktmanagement](https://www.haufe-akademie.de): several dates available in Germany and remote - in German.
 
-Official Partner of Haufe Akademie.
+Official Partner of [Haufe Akademie](https://www.haufe-akademie.de).
+![haufe akademie](https://www.haufe-akademie.de/shop_static/dist/assets/images/elevate/logos/logo_header.svg?v=1742919510)
 
 
