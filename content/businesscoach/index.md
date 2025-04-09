@@ -15,7 +15,10 @@ header:
 ---
 ## Elevate Your Career in Product & Tech 
 
-We specialize in empowering professionals mainly in the product and tech industry to achieve their highest potential. Our coaching program is meticulously designed to offer a personalized and systemic approach, ensuring you receive tailored guidance that aligns perfectly with your unique goals and challenges.
+_We specialize in empowering professionals mainly in the product and tech industry to achieve their highest potential. Our coaching program is meticulously designed to offer a personalized and systemic approach, ensuring you receive tailored guidance that aligns perfectly with your unique goals and challenges._
+
+
+---
 
 ### Business Coaching: Our Philosophy
 
@@ -25,7 +28,8 @@ Professional Coaching is understood as a solution-oriented process support, aidi
 **Sparring in Product Management and Org Development**
 Beside the Professional Coaching approach we are also open for sparring in your daily topics or long-term strategic challenges. We bring in some fresh ideas and share experiences from our professional live. 
 
-### Why Choose Us?
+
+### Why Working with Martin?
 
 Martin Stahl is a trained **Systemic Business Coach (University of Applied Science Wismar, Germany)**, has a **Master's degree (M.A.) in Systemic Consulting (RPTU Technical University Kaiserslautern)**. 
 Mentored by [Kerstin Dierolf](https://www.solutionsacademy.com/who-we-are) (MCC, Solution Focused Academy).
@@ -40,6 +44,8 @@ We guarantee a safe, confidential space for you to explore your challenges and g
 **Flexible Coaching Formats**
 Whether you prefer in-person sessions, video calls, or another format, we're here to accommodate your needs.
 
+---
+
 ### Proven Results
 
 Our coaching program stands out with its track record of proven results:
@@ -47,7 +53,7 @@ Our coaching program stands out with its track record of proven results:
 - Enhanced Problem-Solving Skills
 - Increased Productivity
 - Improved Leadership Abilities
-- Career Advancement
+- Career Advancement 
 - Personal Growth
 
 
