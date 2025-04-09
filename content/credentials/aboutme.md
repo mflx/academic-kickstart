@@ -39,7 +39,7 @@ Strong in explore and scaling business phase.
 ### Companies
 - **Chief Product Officer (CPO)** at Curalie / Fresenius Group (2022-2024).
 
-- **Leading product** at [Lieferando](https://www.lieferando.de/) (2011-2013), [Flaconi](https://www.flaconi.de/) (2014-2015) and Servicepartner.one.
+- **Leading product and reporting to CEO** at [Lieferando](https://www.lieferando.de/) (2011-2013), [Flaconi](https://www.flaconi.de/) (2014-2015) and Servicepartner.one.
 
 - **Product Management / Product Ownership / Product team lead roles** at TopTarif, aladoo.de, [nu3.de](https://www.nu3.de/), [mobile.de](https://www.mobile.de/verkaufen/auto/) and others.
 
