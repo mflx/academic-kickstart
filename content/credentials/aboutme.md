@@ -57,6 +57,22 @@ Strong in explore and scaling business phase.
 Master (M.A.) in **Systemic Consulting with focus on Organizational Consulting** (RPTU Technical University Kaiserslautern 2024). Background in **Philosophy, Political Science and Economics** (University of Heidelberg). 
 Trained **Software Product Manager** (University of Alberta 2017).
 
-Trained **Systemic Business Coach** (University of Applied Science Wismar 2019, Solutions Academy 2020, International Coach Federation 2020) and as part of my ongoing professional development certified by [Scrum Alliance](https://www.scrumalliance.org/community/profile/mstahl7), [Kanban University](https://edu.kanban.university/users/martin-stahl), [Scrum.org](https://www.scrum.org/user/251980), ICAgile and others. 
+
+### Qualifications
+
+- **Systemic Business Coach** / University of Applied Science Wismar 2019 / Solutions Academy 2020 / International Coach Federation 2020
+- **Agile Leadership** (Certified Agile Leader) / [Scrum Alliance](https://www.scrumalliance.org/community/profile/mstahl7)
+- **Systemische Organisationsentwicklung** / [Grubendorfer / Simon, Weber & Friends](https://www.simon-weber.de/)
+- Agendashift - Coaching and Leading Continuous Transformation / Mike Burrows
+- **Certified Scrum Professional**, Certified Scrum Product Owner / [Scrum Alliance](https://www.scrumalliance.org/community/profile/mstahl7)
+- **Software Product Management** (Specialization) / [University of Alberta](https://coursera.org/share/6c760d917c726149088728eb8b5d08ec)
+- Kanban Management Professional / [Kanban University](https://edu.kanban.university/users/martin-stahl)
+- Enterprise Service Planing / [Kanban University](https://edu.kanban.university/users/martin-stahl)
+- Professional Scrum Master (PSMI) / [Scrum.org](https://www.scrum.org/user/251980)
+- **Design Thinking** / SAP / Darden Business School
+- **Strategic Leadership: Impact, Change, and Decision-Making** (Specialization) / [Tuck School of Business at Dartmouth](https://coursera.org/share/2dda222ab3fe06aa6bda58a9b6c5f8c3)
+- The Responsibility Process® Leading & Coaching / Christopher Avery
+- Systems Thinking and Complexity / UNESCO UNITWIN Complex Systems Digital Campus
+- **Strategic Technology Management** (Specialization)[University of Illinois Urbana-Champaign](https://coursera.org/share/af371adf574e88f90f001083610a88c0)
 
 Member of [Scrum Alliance](https://www.scrumalliance.org/) and [Scrum Alliance DACH e.V.](https://scrumdach.org/). 
