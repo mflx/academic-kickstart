@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Product Consultant
+role: Product Executive Consultant
 
 # Organizations/Affiliations
 organizations:
@@ -56,12 +56,13 @@ user_groups:
 - Visitors
 ---
 
-I’m a **Digital Product Manager** and **Organizational Consultant** with a proven track record of over 15 years in Berlin’s start-up ecosystem. Loves building innovative products that add real value, and cultivating motivated teams around them. 
+I’m a **Digital Product Executive** and **Organizational Consultant** with a proven track record of over 15 years in Berlin’s start-up ecosystem. Loves building innovative products that add real value, and cultivating motivated teams around them. 
 
 Things I currently do:
 
-* Consulting scaling organizations and teams in Product Management, Tech and Innovation
-* [Business Coaching](businesscoach) and sparring for individuals in Product, Tech and Strategy
+* Consulting scaling organizations and teams in Organisation Building, Transformation and Innovation
+* Fractional Product Executive / Director roles
+* [Business Coaching](businesscoach) and sparring for individuals in Product Management, Tech and Strategy
 * Former Chief Product Officer at an corporate ehealth innovation hub 
 
 Interested in finding out [more about me](credentials/aboutme)?
