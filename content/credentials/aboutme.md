@@ -14,9 +14,11 @@ header:
   image: ""
 ---
 
-Coaching and consulting organizations and teams in dynamic phases like scaling, change or innovation to a better, sustainable and healthy delivery.
+Consulting organizations and teams in dynamic phases like scaling, change or innovation to a better, sustainable and healthy delivery.
 - Deep understanding of digital products and distruptive business models. 
-- Holistic and hypothesis-based Product Management by looking at the right metrics. 
+- Holistic and hypothesis-based Product Management by looking at the right metrics.
+- Domain expertise in eHealth, hospitals and clinics.
+- Organisationbuilding, organisational development and transformations.
 - Supporting teams, individuals and business units on their way to an agile mindset and work practices like Scrum and Kanban with a systemic and solution-focussed approach.
 
 
