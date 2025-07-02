@@ -60,9 +60,9 @@ I’m a **Digital Product Executive** and **Organizational Consultant** with a p
 
 Things I currently do:
 
-* Consulting scaling organizations and teams in Organisation Building, Transformation and Innovation
+* Consulting scaling organizations and teams in Organisational Development, Transformation and Innovation
 * Fractional Product Executive / Director roles
 * [Business Coaching](businesscoach) and sparring for individuals in Product Management, Tech and Strategy
-* Former Chief Product Officer at an corporate ehealth innovation hub 
+* Former Chief Product Officer @ corporate ehealth innovation hub 
 
 Interested in finding out [more about me](credentials/aboutme)?
