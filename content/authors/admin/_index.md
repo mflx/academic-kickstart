@@ -55,13 +55,12 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
 I’m a **Digital Product Executive** and **Organizational Consultant** with a proven track record of over 15 years in Berlin’s start-up ecosystem. Loves building innovative products that add real value, and cultivating motivated teams around them. 
 
 Things I currently do:
 
-* Consulting scaling organizations and teams in Organisational Development, Transformation and Innovation
-* Fractional Product Executive / Director roles
+* Organizational Development at health organisation Johanniter
+* Professional Training in Product Management with Haufe Akademie
 * [Business Coaching](businesscoach) and sparring for individuals in Product Management, Tech and Strategy
 * Former Chief Product Officer @ corporate ehealth innovation hub 
 
