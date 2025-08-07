@@ -15,7 +15,7 @@ role: Organizational Development Specialist
 # Organizations/Affiliations
 organizations:
 - name: Johanniter Gmbh
-  url: "https://johanniter.de"
+  url: "https://www.johanniter.de/johanniter-gmbh/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Building digital Products in Startups for over a decade. Currently coaching and consulting in Product Management, digital innovation and Organisational Development.
