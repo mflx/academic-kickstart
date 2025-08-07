@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Product Executive Consultant
+role: Organizational Development Specialist
 
 # Organizations/Affiliations
 organizations:
-- name: MakeProduct.Work
-  url: "https://makeproduct.work"
+- name: Johanniter Gmbh
+  url: "https://johanniter.de"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Building digital Products in Startups for over a decade. Currently coaching and consulting in Product Management, digital innovation and Organisational Development.
