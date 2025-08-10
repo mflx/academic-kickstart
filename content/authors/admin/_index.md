@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Organizational Development Specialist
+role: Organizational Developer
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.johanniter.de/johanniter-gmbh/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Building digital Products in Startups for over a decade. Currently coaching and consulting in Product Management, digital innovation and Organisational Development.
+bio: Building digital Products in Startups for over a decade. Currently Organizational Development in Healthcare. Consulting in Product Management, Innovation and Organisational Development.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
