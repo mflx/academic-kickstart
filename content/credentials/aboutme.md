@@ -58,26 +58,27 @@ Strong in explore and scaling business phase.
 ### Education
 
 Master (M.A.) in **Systemic Consulting** with focus on Organizational Consulting (RPTU Technical University Kaiserslautern 2024). Master Thesis on Paradoxies in Scale-Ups (Grade 1,0).
+
 Background in **Philosophy, Political Science and Economics** (University of Heidelberg 2020). 
 Trained **Software Product Manager** (University of Alberta 2017).
 
 
-### Qualifications
+### Further Qualifications
 
 - **Systemic Business Coach** / University of Applied Science Wismar 2019 / Solutions Academy 2020 / International Coach Federation 2020
-- **Agile Leadership** (Certified Agile Leader) / [Scrum Alliance](https://www.scrumalliance.org/community/profile/mstahl7)
+- **Agile Leadership** (CAL2 Certified Agile Leader) / [Scrum Alliance](https://www.scrumalliance.org/community/profile/mstahl7)
 - **Systemische Organisationsentwicklung** / [Grubendorfer / Simon, Weber & Friends](https://www.simon-weber.de/)
 - **Software Product Management** (Specialization) / [University of Alberta](https://coursera.org/share/6c760d917c726149088728eb8b5d08ec)
 - **Strategic Technology Management** (Specialization) / [University of Illinois Urbana-Champaign](https://coursera.org/share/af371adf574e88f90f001083610a88c0)
 - **Strategic Leadership: Impact, Change, and Decision-Making** (Specialization) / [Tuck School of Business at Dartmouth](https://coursera.org/share/2dda222ab3fe06aa6bda58a9b6c5f8c3)
-- Kanban Management Professional / [Kanban University](https://edu.kanban.university/users/martin-stahl)
-- Certified Scrum Professional, Certified Scrum Product Owner / [Scrum Alliance](https://www.scrumalliance.org/community/profile/mstahl7)
-- Professional Scrum Master (PSMI) / [Scrum.org](https://www.scrum.org/user/251980)
-- Enterprise Service Planing / [Kanban University](https://edu.kanban.university/users/martin-stahl)
-- Design Thinking / SAP / [Darden School of Business](https://coursera.org/share/8c79c60d6b84c69ab16f26a19d79223c)
-- The Responsibility Process® Leading & Coaching / Christopher Avery
-- Agendashift - Coaching and Leading Continuous Transformation / Mike Burrows
-- Systems Thinking and Complexity / UNESCO UNITWIN Complex Systems Digital Campus
+- **Kanban Management Professional** / [Kanban University](https://edu.kanban.university/users/martin-stahl)
+- **Certified Scrum Professional** (CSPO) / [Scrum Alliance](https://www.scrumalliance.org/community/profile/mstahl7)
+- **Professional Scrum Master** (PSMI) / [Scrum.org](https://www.scrum.org/user/251980)
+- **Enterprise Service Planing Manager** (ESPM) / [Kanban University](https://edu.kanban.university/users/martin-stahl)
+- **Design Thinking** / SAP, [Darden School of Business](https://coursera.org/share/8c79c60d6b84c69ab16f26a19d79223c)
+- **The Responsibility Process® Leading & Coaching** training / Christopher Avery
+- **Agendashift - Coaching and Leading Continuous Transformation** / Mike Burrows
+- **Systems Thinking and Complexity** / UNESCO UNITWIN Complex Systems Digital Campus
 
 
 Member of [Scrum Alliance](https://www.scrumalliance.org/), [Scrum Alliance D-A-CH e.V.](https://scrumdach.org/) and [gfo - Gesellschaft für Organisation](https://gfo-web.de/).
