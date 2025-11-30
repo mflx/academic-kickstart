@@ -15,10 +15,10 @@ header:
 ---
 
 Consulting organizations and teams in dynamic phases like scaling, change or innovation to a better, sustainable and healthy delivery.
-- Deep understanding of digital products and distruptive business models. 
-- Holistic and hypothesis-based Product Management by looking at the right metrics.
-- Domain expertise in eHealth, hospitals and clinics.
+- Deep understanding of digital products and distruptive business models.
 - Organisationbuilding, organisational development and transformations.
+- Holistic and hypothesis-based Product Management by looking at the right metrics.
+- Domain expertise in eHealth, hospitals and the German health system.
 - Supporting teams, individuals and business units on their way to an agile mindset and work practices like Scrum and Kanban with a systemic and solution-focussed approach.
 
 
@@ -41,13 +41,14 @@ Strong in explore and scaling business phase.
 ### Companies
 - **Chief Product Officer (CPO)** at Curalie / Fresenius Group (2022-2024).
 
-- **Leading product and reporting to CEO** at [Lieferando](https://www.lieferando.de/) (2011-2013), [Flaconi](https://www.flaconi.de/) (2014-2015) and Servicepartner.one.
+- **Organisational Development** with [Johanniter](https://www.johanniter.de/johanniter-gmbh/) (since 2025 as internal OD), [Leanovate](https://www.leanovate.de/services/coaching-consulting/) (2017-2021 as consultant).
 
-- **Product Management / Product Ownership / Product team lead roles** at TopTarif, aladoo.de, [nu3.de](https://www.nu3.de/), [mobile.de](https://www.mobile.de/verkaufen/auto/) and others.
+- **Leading company product management, reporting to CEO** at [Lieferando](https://www.lieferando.de/) (2011-2013), [Flaconi](https://www.flaconi.de/) (2014-2015) and Servicepartner.one.
 
-- **Consulting and training** at [Leanovate](https://www.leanovate.de) (2017-2021) in Product Management, Agile/Scrum/Kanban and team development with clients at [eBay Classifieds Group](https://www.ebayclassifiedsgroup.com/), [DCSO](https://www.dcso.de/), [myToys/Otto Group](https://www.mytoys.de/) and many others. 
+- **Product Manager / Product Owner / Group PM / Product team lead roles** at TopTarif, aladoo.de, [nu3.de](https://www.nu3.de/), [mobile.de](https://www.mobile.de/verkaufen/auto/) and others.
 
-- **Organisational Development** with [Leanovate](https://www.leanovate.de/services/coaching-consulting/) (2017-2021).
+- **Consulting and training** at [Leanovate](https://www.leanovate.de) (2017-2021) in Product Management, Organisational Development, Agile/Scrum/Kanban and team development with clients at [eBay Classifieds Group](https://www.ebayclassifiedsgroup.com/), [DCSO](https://www.dcso.de/), [myToys/Otto Group](https://www.mytoys.de/) and many others. 
+
 - **Head of Coaching & Consulting** - leading a team of Agile and Organizational Development Coaches, Product Consultants and Dev Coaches at [Leanovate](https://www.leanovate.de/services/coaching-consulting/) (2019-2020). 
   
   
@@ -56,7 +57,8 @@ Strong in explore and scaling business phase.
   
 ### Education
 
-Master (M.A.) in **Systemic Consulting with focus on Organizational Consulting** (RPTU Technical University Kaiserslautern 2024). Background in **Philosophy, Political Science and Economics** (University of Heidelberg). 
+Master (M.A.) in **Systemic Consulting** with focus on Organizational Consulting (RPTU Technical University Kaiserslautern 2024). Master Thesis on Paradoxies in Scale-Ups (Grade 1,0).
+Background in **Philosophy, Political Science and Economics** (University of Heidelberg 2020). 
 Trained **Software Product Manager** (University of Alberta 2017).
 
 
@@ -78,4 +80,4 @@ Trained **Software Product Manager** (University of Alberta 2017).
 - Systems Thinking and Complexity / UNESCO UNITWIN Complex Systems Digital Campus
 
 
-Member of [Scrum Alliance](https://www.scrumalliance.org/) and [Scrum Alliance DACH e.V.](https://scrumdach.org/). 
+Member of [Scrum Alliance](https://www.scrumalliance.org/), [Scrum Alliance D-A-CH e.V.](https://scrumdach.org/) and [gfo - Gesellschaft für Organisation](https://gfo-web.de/).
