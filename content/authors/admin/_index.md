@@ -60,7 +60,7 @@ I’m a **Digital Product Executive** and **Organizational Consultant** with a p
 Things I currently do:
 
 * Organizational Development at health organisation Johanniter
-* Professional Training in Product Management with Haufe Akademie
+* Professional Training in AI and Product Management with Haufe Akademie
 * [Business Coaching](businesscoach) and sparring for individuals in Product Management, Tech and Strategy
 * Former Chief Product Officer @ corporate ehealth innovation hub 
 
