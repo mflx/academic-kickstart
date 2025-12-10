@@ -18,7 +18,7 @@ organizations:
   url: "https://www.johanniter.de/johanniter-gmbh/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Building digital Products in Startups for over a decade. Currently Organizational Development in Healthcare. Consulting in Product Management, Innovation and Organisational Development.
+bio: Organizational Development in Healthcare. Building digital products and organizations in Startups for over a decade.  Consulting in Product Management, Innovation and Organisational Development.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -55,13 +55,12 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I’m a **Digital Product Executive** and **Organizational Consultant** with a proven track record of over 15 years in Berlin’s start-up ecosystem. Loves building innovative products that add real value, and cultivating motivated teams around them. 
+I’m a **Digital Product Executive** and **Organizational Consultant** with a proven track record of over 15 years in Berlin’s start-up ecosystem. 
 
 Things I currently do:
 
-* Organizational Development at health organisation Johanniter
-* Professional Training in AI and Product Management with Haufe Akademie
-* [Business Coaching](businesscoach) and sparring for individuals in Product Management, Tech and Strategy
+* Organizational Development at [Johanniter](https://www.johanniter.de/johanniter-gmbh/)
+* Professional Training in AI & future skills with [Haufe Akademie](https://www.haufe-akademie.de/referent/trainer/martin_stahl)
 * Former Chief Product Officer @ corporate ehealth innovation hub 
 
 Interested in finding out [more about me](credentials/aboutme)?
