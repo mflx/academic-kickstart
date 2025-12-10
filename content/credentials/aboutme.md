@@ -29,14 +29,7 @@ I work and lead based on the **values** focus, collaboration, transparency, resp
   
   
 ---
-  
-  
-### Industries and domains
 
-Experience and clients across multiple domains in international companies. Expert knowledge in eHealth, eCommerce, tech platforms and classified. Solid knowledge in other fields like Cybersecurity and Fintech. Multiple customer groups: B2C, B2B, C2B. 
-Strong in explore and scaling business phase. 
-
-  
   
 ### Companies
 - **Chief Product Officer (CPO)** at Curalie / Fresenius Group (2022-2024).
@@ -51,6 +44,12 @@ Strong in explore and scaling business phase.
 
 - **Head of Coaching & Consulting** - leading a team of Agile and Organizational Development Coaches, Product Consultants and Dev Coaches at [Leanovate](https://www.leanovate.de/services/coaching-consulting/) (2019-2020). 
   
+
+### Industries and domains
+
+Experience and clients across multiple domains in international companies. Expert knowledge in eHealth, eCommerce, tech platforms and classified. Solid knowledge in other fields like Cybersecurity and Fintech. Multiple customer groups: B2C, B2B, C2B. 
+Strong in explore and scaling business phase. 
+
   
 ---
   
