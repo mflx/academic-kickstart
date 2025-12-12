@@ -10,15 +10,15 @@ comments: false  # Show comments?
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "Profil shot at Curalie office"
+  image: "M-bei-Curalie.jpg"
 ---
 
 Consulting organizations and teams in dynamic phases like scaling, change or innovation to a better, sustainable and healthy delivery.
-- Deep understanding of digital products and distruptive business models.
-- Organisationbuilding, organisational development and transformations.
-- Holistic and hypothesis-based Product Management by looking at the right metrics.
-- Domain expertise in eHealth, hospitals and the German health system.
+- Deep understanding of **digital products** and distruptive business models.
+- Organisationbuilding, **organisational development** and transformations.
+- Holistic and hypothesis-based **Product Management**.
+- Domain expertise in **eHealth**, hospitals and the German health system.
 - Supporting teams, individuals and business units on their way to an agile mindset and work practices like Scrum and Kanban with a systemic and solution-focussed approach.
 
 
