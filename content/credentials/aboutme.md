@@ -10,8 +10,8 @@ comments: false  # Show comments?
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "Profil shot at Curalie office"
-  image: "M-bei-Curalie.jpg"
+  caption: ""
+  image: ""
 ---
 
 Consulting organizations and teams in dynamic phases like scaling, change or innovation to a better, sustainable and healthy delivery.
@@ -27,7 +27,9 @@ I work and lead based on the **values** focus, collaboration, transparency, resp
 
 **Community** work like barcamps, learning circles, community of practices and supervision are an integral part of my professional life. 
   
-  
+{{< figure src="What-AI-thinks.png" caption="Me envisioned by some AI tool" >}}
+
+
 ---
 
   
