@@ -1,6 +1,6 @@
 ---
-title: Some usefull AI tools  
-summary: Recommended and usefull AI tools in digital business, organization and product management.
+title: Some useful AI tools  
+summary: Recommended and useful AI tools in digital business, organization and product management.
 date: "2025-12-12T00:00:00Z"
 
 reading_time: true  # Show estimated reading time?
@@ -10,7 +10,7 @@ comments: false  # Show comments?
 
 header:
   caption: "Focused foto of tools by Kenny Eliason"
-  image: "nenny-eliason-60krlMMeWxU.jpg"
+  image: "kenny-eliason-60krlMMeWxU.jpg"
 
 ---
 
@@ -20,7 +20,7 @@ Many people in organizations, esp. in fast-paced tech and product companies are 
 Here is an (incomplete) overview of tools and little helpers that are based on or use AI technologies.
 
 Short reminder: for many documents and other artefacts (like roadmaps PRDs etc)it is not the finished document that makes it effective, but **the communication and alignment** about and around it. The tool cannot replace this social level of an artifact. Nevertheless, it may be a good way to fill a blank sheet or to start the conversation.
-
+<br>
 
 ## Text creation, synthesising of information
 
@@ -28,6 +28,7 @@ Short reminder: for many documents and other artefacts (like roadmaps PRDs etc)i
 *   [Notion](https://www.notion.com) (AI supported document creation etc.)
 *   [Grammarly](https://www.grammarly.com/) (improve grammar and style of text)
 *   [copy.ai](https://www.copy.ai/) (Collection around Email/CRM/OM)
+<br>
 
 ## Research
 
@@ -36,6 +37,7 @@ Short reminder: for many documents and other artefacts (like roadmaps PRDs etc)i
 *   [Inari](https://useinari.com/) (analyse user feedback)
 *   [Umbrella Bird](https://umbrellabird.com/) (analyse user feedback)
 *   [Google NotebookLM](https://notebooklm.google/)
+<br>
 
 ## Data Analysis and BI
 
@@ -43,11 +45,13 @@ Short reminder: for many documents and other artefacts (like roadmaps PRDs etc)i
 *   [Gong](https://www.gong.io/de/)
 *   [Julius AI](https://julius.ai/) (Data analysis)
 *   [Coefficient](https://coefficient.io/) (Automate data from different sources like Excel, Sheets, Hubspot etc)
+<br>
 
 ## Strategy, PRD etc
 
 *   [NotebookLM](https://notebooklm.google) (Combine multiple source documents)
 *   [AI Agents for 10x Product Managers](https://www.aigents.pm/)
+<br>
 
 ## Meeting minutes
 
@@ -57,6 +61,7 @@ Short reminder: for many documents and other artefacts (like roadmaps PRDs etc)i
 *   [GranolaAI](https://www.granola.ai/)
 *   [Slipbox AI](https://www.slipbox.ai) (Meeting companion)
 *   [Loom](https://www.loom.com/) (create a simple video instead of hosting a meeting)
+<br>
 
 ## Visuals, UX Designs and Slides
 
@@ -72,6 +77,7 @@ Short reminder: for many documents and other artefacts (like roadmaps PRDs etc)i
 *   [v0](https://v0.dev/)
 *   [SlidesAI](https://www.slidesai.io) (Presentations)
 *   [Resemble AI](https://www.resemble.ai/) (Voice generation)
+<br>
 
 ## Projects and processes
 
@@ -82,6 +88,7 @@ Short reminder: for many documents and other artefacts (like roadmaps PRDs etc)i
 *   [Nyota AI](https://www.nyota.ai/) (CRM / CS automation)
 *   [Lucidspark](https://lucidspark.com/) (Virtual Whiteboard w/ Collaborative AI)
 *   [Rewind AI](https://www.rewind.ai/) (Personal assistant)
+<br>
 
 ## Engineering and Prototyping
 
@@ -90,11 +97,13 @@ Short reminder: for many documents and other artefacts (like roadmaps PRDs etc)i
 *   [Cursor AI](https://www.cursor.com) (AI code editor)
 *   [Windsurf](https://codeium.com/windsurf)
 *   [Bolt](https://bolt.new) (Prompt, run, edit, and deploy full-stack web and mobile apps.)
+<br>
 
 ## Other
 
 *   [https://genaipm.com](https://genaipm.com) (Curated summaries of PM content from the interwebs)
 *   [Hugging Face](https://huggingface.co/) (Source and community for large models, data sets etc)
+<br>
 
 ## Courses
 
@@ -105,10 +114,10 @@ Short reminder: for many documents and other artefacts (like roadmaps PRDs etc)i
 - - -
 
 Disclaimer: This list might be outdated within months. Let me know in the comments if something is missing.
-Before using one of the tools please inform yourself about the terms of trade. Find out whether the use of such a tool is compatible with the compliance rules of your company.
+Before using one of the tools please inform yourself about the terms of trade. Find out whether the use of such a tool is compatible with the compliance rules of your company.<br>
+<br>
 
-
-Last update: Dec. 2025
-Source: [MakeProduct.Work - Best AI tools for Product Managers](https://makeproduct.work/2025/02/16/ai-tools-for-product-managers/)
+Last update: Dec. 2025<br>
+Source: [MakeProduct.Work - Best AI tools for Product Managers](https://makeproduct.work/2025/02/16/ai-tools-for-product-managers/)  <br>
 Photo credit: [Kenny Eliason on unsplash.com](https://unsplash.com/de/fotos/selektive-fokusfotografie-von-mechanischem-werkzeuglos-60krlMMeWxU)
       
