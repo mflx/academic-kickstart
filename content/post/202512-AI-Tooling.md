@@ -113,7 +113,7 @@ Short reminder: for many documents and other artefacts (like roadmaps PRDs etc)i
 
 - - -
 
-{{< figure library="true" src="hyperrealistic_humanoid_robot_with_laptop-midjourney" caption="Humanoid Robot Developer, created with AI Midjourney" lightbox="true" >}}
+{{< figure library="true" src="hyperrealistic_humanoid_robot_with_laptop-midjourney.png" caption="Humanoid Robot Developer, created with AI Midjourney" lightbox="true" >}}
 
 Disclaimer: This list might be outdated within months. Let me know in the comments if something is missing.
 Before using one of the tools please inform yourself about the terms of trade. Find out whether the use of such a tool is compatible with the compliance rules of your company.<br>
