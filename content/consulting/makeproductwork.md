@@ -16,7 +16,9 @@ header:
 
 MakeProduct.Work is a Product Management and Organisational Development consultancy, located in Berlin.
 
-    We help you with finding the right Product Strategy, how to manage an innovation portfolio, scaling your organization, or getting transparency over teams. And many more.. just talk to us!
+    We help you with finding the right Product Strategy, 
+    how to manage an innovation portfolio, scaling your organization, 
+    or getting transparency over teams. 
 
 
 ## Team
