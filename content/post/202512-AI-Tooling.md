@@ -19,7 +19,8 @@ Many people in organizations, esp. in fast-paced tech and product companies are 
 
 Here is an (incomplete) overview of tools and little helpers that are based on or use AI technologies.
 
-Short reminder: for many documents and other artefacts (like roadmaps PRDs etc)it is not the finished document that makes it effective, but **the communication and alignment** about and around it. The tool cannot replace this social level of an artifact. Nevertheless, it may be a good way to fill a blank sheet or to start the conversation.
+Short reminder: for many documents and other artefacts (like roadmaps PRDs etc)it is not the finished document that makes it effective, but **the communication and alignment** about and around it. The tool cannot replace this social level of an artifact. Nevertheless, it may be a good way to fill a blank sheet or to start the conversation. 
+Also, outcome over output. Delivery thoughtfull questions, not lines of code.<br>
 <br>
 
 ## Text creation, synthesising of information
@@ -45,6 +46,8 @@ Short reminder: for many documents and other artefacts (like roadmaps PRDs etc)i
 *   [Gong](https://www.gong.io/de/)
 *   [Julius AI](https://julius.ai/) (Data analysis)
 *   [Coefficient](https://coefficient.io/) (Automate data from different sources like Excel, Sheets, Hubspot etc)
+*   [Hello Frank](https://hellofrank.ai/s) (Financial coach for entrepreneurs)
+*   [Precision](https://precision.co/) (Financial and other metrics dashboards)
 <br>
 
 ## Strategy, PRD etc
@@ -66,17 +69,19 @@ Short reminder: for many documents and other artefacts (like roadmaps PRDs etc)i
 ## Visuals, UX Designs and Slides
 
 *   [Magic Patterns](https://www.magicpatterns.com) (Design tool)
-*   [Beautiful.A](https://www.beautiful.ai)I
+*   [Beautiful.A](https://www.beautiful.ai)
 *   [Midjourney](https://www.midjourney.com/) (Simple illustrations)
 *   [Canva](https://www.canva.com/)
 *   [NapkinAI](https://www.napkin.ai/) (Text to Visuals)
 *   [Fliki](https://fliki.ai/) (Text to video)
+*   [Descript](https://www.descript.com/) (Edit videos with text)
 *   [MermaidAI](https://www.mermaidchart.com/mermaid-ai) (for Mermaid diagrams)
 *   [Drawify](https://drawify.com/) (Visualize business content)
 *   [PrezentAI](https://www.prezent.ai/) (Presentations)
 *   [v0](https://v0.dev/)
 *   [SlidesAI](https://www.slidesai.io) (Presentations)
 *   [Resemble AI](https://www.resemble.ai/) (Voice generation)
+*   [Gamma.app](https://gamma.app) (Designs, presentations, websites)
 <br>
 
 ## Projects and processes
@@ -88,15 +93,24 @@ Short reminder: for many documents and other artefacts (like roadmaps PRDs etc)i
 *   [Nyota AI](https://www.nyota.ai/) (CRM / CS automation)
 *   [Lucidspark](https://lucidspark.com/) (Virtual Whiteboard w/ Collaborative AI)
 *   [Rewind AI](https://www.rewind.ai/) (Personal assistant)
+*   [Trainual](https://trainual.com/) (HR processes, roles, training contents)
 <br>
 
 ## Engineering and Prototyping
 
 *   [Cline](https://cline.bot/) (Tools for SE)
-*   [lovable.dev](https://lovable.dev/) (Prototyping)
+*   [lovable.dev](https://lovable.dev/) (Prototyping, websites)
 *   [Cursor AI](https://www.cursor.com) (AI code editor)
 *   [Windsurf](https://codeium.com/windsurf)
 *   [Bolt](https://bolt.new) (Prompt, run, edit, and deploy full-stack web and mobile apps.)
+*   [Manus.ai](https://manus.im/) (Build websites and landingpages, by Meta.)
+*   [Make AI](https://www.make.com/) (Connect and automate services and data)
+<br>
+
+## Marketing and Social
+*  [Socialsweep.AI](https://socialsweep.ai/) (Deep search your network)
+*  [BuddyPro](https://buddypro.ai/) (Build your digital twin as an customer or coaching agent)
+*  [Revio](https://www.getrevio.com) (Automate email/DM marketing)
 <br>
 
 ## Other
@@ -119,7 +133,7 @@ Disclaimer: This list might be outdated within months. Let me know in the commen
 Before using one of the tools please inform yourself about the terms of trade. Find out whether the use of such a tool is compatible with the compliance rules of your company.<br>
 <br>
 
-Last update: Dec. 2025<br>
+Last update: Febr. 2026 by Martin<br><br>
 Source: [MakeProduct.Work - Best AI tools for Product Managers](https://makeproduct.work/2025/02/16/ai-tools-for-product-managers/)  <br>
 Photo credit: [Kenny Eliason on unsplash.com](https://unsplash.com/de/fotos/selektive-fokusfotografie-von-mechanischem-werkzeuglos-60krlMMeWxU)
       
