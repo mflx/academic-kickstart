@@ -27,8 +27,6 @@ I work and lead based on the **values** focus, collaboration, transparency, resp
 
 **Community** work like barcamps, learning circles, community of practices and supervision are an integral part of my professional life. 
   
-{{< figure library="true" src="What-AI-thinks.png" caption="Me envisioned by some AI tool" >}}
-
 
 ---
 
