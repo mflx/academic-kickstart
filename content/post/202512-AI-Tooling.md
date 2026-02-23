@@ -25,7 +25,7 @@ Also, outcome over output. Delivery thoughtfull questions, not lines of code.<br
 
 ## Text creation, synthesising of information
 
-*   Most LLM will do the job to some extend: ChatGPT, Gemini, DeepResearch, Deepseek
+*   Most LLM will do the job to some extend: ChatGPT, Gemini, Claude, Mistral LeChat, Deepseek,..
 *   [Notion](https://www.notion.com) (AI supported document creation etc.)
 *   [Grammarly](https://www.grammarly.com/) (improve grammar and style of text)
 *   [copy.ai](https://www.copy.ai/) (Collection around Email/CRM/OM)
@@ -34,7 +34,7 @@ Also, outcome over output. Delivery thoughtfull questions, not lines of code.<br
 ## Research
 
 *   [PerplexityAI](http://perplexity.ai)
-*   [Claude](https://claude.ai) esp. Claude Artifacts (see some [examples](https://madewithclaude.com))
+*   [Claude](https://claude.ai)
 *   [Inari](https://useinari.com/) (analyse user feedback)
 *   [Umbrella Bird](https://umbrellabird.com/) (analyse user feedback)
 *   [Google NotebookLM](https://notebooklm.google/)
@@ -53,6 +53,7 @@ Also, outcome over output. Delivery thoughtfull questions, not lines of code.<br
 ## Strategy, PRD etc
 
 *   [NotebookLM](https://notebooklm.google) (Combine multiple source documents)
+*   [Claude Cowork](https://claude.com/)
 *   [AI Agents for 10x Product Managers](https://www.aigents.pm/)
 <br>
 
@@ -124,6 +125,7 @@ Also, outcome over output. Delivery thoughtfull questions, not lines of code.<br
 *   [IBM AI Product Manager](https://www.coursera.org/professional-certificates/ibm-ai-product-manager) (10 courses specialization on Coursera - 46€/month)
 *   [AI Product Management course](https://youtu.be/IfW1FMDkw4k) by [Pawel Huryn](https://www.news.aakashg.com/p/complete-course-ai-product-management) (1,5h course on AI and product)
 *   Coursera has quite a lot material and courses on AI. Find an overview [here](https://www.coursera.org/explore/generative-ai)
+*   [Resources, Tutorials and Use Cases at Anthropic](https://claude.com/resources/tutorials)
 
 - - -
 
