@@ -24,3 +24,9 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+[[redirects]]
+  from = "https://martinstahl.info/*"
+  to = "https://martinstahl.eu/:splat"
+  status = 301
+  force = true    
