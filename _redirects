@@ -1,0 +1,5 @@
+# Hauptdomain
+https://martinstahl.info/* https://martinstahl.eu/:splat 301!
+
+# www-Subdomain
+https://www.martinstahl.info/* https://martinstahl.eu/:splat 301!
