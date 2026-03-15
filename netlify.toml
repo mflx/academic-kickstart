@@ -30,3 +30,9 @@
   to = "https://martinstahl.eu/:splat"
   status = 301
   force = true    
+
+[[redirects]]
+  from = "https://www.martinstahl.info/*"
+  to = "https://martinstahl.eu/:splat"
+  status = 301
+  force = true  
